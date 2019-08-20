@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Welcome!
+# Christine Harvey
 
-Thank you for taking the time to visit my online portfolio. Here you will find my resume, contact information, portfolio, and news items.
+Experienced computational scientist with a strong background in analytics, developing data pipelines, and high performance computing (HPC). Service manager of MITRE's HPC clusters for over 300 users and more than 120 projects across various sponsor programs and internal research efforts. Data Collection and Analysis Lead for the simulation experiment (SIMEX) program where I coordinate and execute efforts for experiment design, data collection, analysis, and final deliverables. Enthusiastic volunteer within the HPC community for SIGHPC and the SC Conference.
 
-I completed my Master’s of Science in Computational Science at the Richard Stockton College of New Jersey. Stockton College offers a 4+1 program which allows students to get both their Bachelor’s and Master’s Degrees in five years. I have come up through this program and completed my second degree in May 2013. My main research focuses include mathematical modeling and simulation and high performance computing.
+I completed my Master’s of Science in Computational Science at the Richard Stockton College of New Jersey (now Stockton University). Stockton offers a 4+1 program which allows students to get both their Bachelor’s and Master’s Degrees in five years. My main research focuses include mathematical modeling and simulation and high performance computing.
 
 I now work for The MITRE Corporation in McLean, Virginia as a Lead High Performance and Analytic Computing Engineer and enjoy living in the DC Metro area.  In addition to my career, I am also a PhD Candidate at George Mason University in the Computational Sciences and Informatics program.
 
