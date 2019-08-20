@@ -30,11 +30,11 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="https://orcid.org/0000-0002-3941-3895" target="_blank"><i class="fas fa-fingerprint"></i></a>
-	<a href="https://github.com/ceharvs" target="_blank"><i class="fab fa-github-square"></i></a>
-	<a href="https://www.linkedin.com/in/itsharveytime" target="_blank"><i class="fab fa-linkedin"></i></a>
-	<a href="https://twitter.com/ItsHarveyTime" target="_blank"><i class="fab fa-twitter-square"></i></a>
-	<a href="https://www.instagram.com/itsharveytime/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://orcid.org/0000-0002-3941-3895" target="_blank"><i class="fa fa-fingerprint"></i></a>
+	<a href="https://github.com/ceharvs" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/itsharveytime" target="_blank"><i class="fa fa-linkedin"></i></a>
+	<a href="https://twitter.com/ItsHarveyTime" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="https://www.instagram.com/itsharveytime/" target="_blank"><i class="fa fa-instagram"></i></a>
 </span>
 
 <div class="col three caption">
