@@ -8,7 +8,7 @@ permalink: /about/
 
 <br/>
 
-# Hello, you!
+# Well hello there!
 
 Thank you for taking the time to visit my online portfolio. Here you will find my resume, contact information, portfolio, and news items.
 
