@@ -1,12 +1,12 @@
 # Site settings
 title: *folio
-email: you@example.com
+email: ceharvs@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  Christine Harvey's professional portfolio.
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+twitter_username: itsharveytime
+github_username:  ceharvs
 
 # Build settings
 markdown: kramdown
@@ -22,8 +22,8 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  poetry:
+  blog:
     output: true
-    permalink: /poetry/:path/
+    permalink: /blog/:path/
 
 
