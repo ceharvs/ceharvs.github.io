@@ -1,13 +1,58 @@
 ---
-layout: default
+layout: index-full
+description: the good site of life
 ---
+{% for post in paginator.posts %}
+    {% include article_index.html %}
+{% endfor %}
 
-# Welcome!
+{% if paginator.total_pages > 1 %}
+    <div class="pagination">
+        <!-- link to first page -->
+        {% if paginator.total_pages > 3 %}
+            {% if paginator.page == 1 %}
+                <span class="btn disabled"><i class="fa fa-angle-double-left"></i></span>
+            {% else %}
+                <a class="btn" href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-double-left"></i></a>
+            {% endif %}
+        {% endif %}
 
-Thank you for taking the time to visit my online portfolio. Here you will find my resume, contact information, portfolio, and news items.
+        <!-- previous link -->
+        {% if paginator.previous_page %}
+            <a class="btn prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-left"></i></a>
+        {% else %}
+            <span class="btn disabled"><i class="fa fa-angle-left"></i></span>
+        {% endif %}
 
-I completed my Master’s of Science in Computational Science at the Richard Stockton College of New Jersey. Stockton College offers a 4+1 program which allows students to get both their Bachelor’s and Master’s Degrees in five years. I have come up through this program and completed my second degree in May 2013. My main research focuses include mathematical modeling and simulation and high performance computing.
+        <!-- number links -->
+        {% capture start %}
+            {{ paginator.page | minus: 3 }}
+        {% endcapture %}
 
-I now work for The MITRE Corporation in McLean, Virginia as a Lead High Performance and Analytic Computing Engineer and enjoy living in the DC Metro area.  In addition to my career, I am also a PhD Candidate at George Mason University in the Computational Sciences and Informatics program.
+        {% for i in (1..paginator.total_pages) limit: 5 offset: start %}
+            {% if i == paginator.page %}
+                <span class="btn disabled">{{ i }}</span>
+            {% elsif i == 1 %}
+                <a class="btn" href="{{ site.baseurl }}/">{{ i }}</a>
+            {% else %}
+                <a class="btn" href="/page/{{ i }}">{{ i }}</a>
+            {% endif %}
+        {% endfor %}
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3941-3895" href="https://orcid.org/0000-0002-3941-3895" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3941-3895</a></div>
+        <!-- next link -->
+        {% if paginator.next_page %}
+            <a class="btn next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-right"></i></a>
+        {% else %}
+            <span class="btn disabled"><i class="fa fa-angle-right"></i></span>
+        {% endif %}
+
+        <!-- last page link -->
+        {% if paginator.total_pages > 3 %}
+            {% if paginator.page == paginator.total_pages %}
+                <span class="btn disabled"><i class="fa fa-angle-double-right"></i></span>
+            {% else %}
+                <a class="btn" href="{{ site.baseurl | replace: '//', '/' }}/page/{{paginator.total_pages}}"><i class="fa fa-angle-double-right"></i></a>
+            {% endif %}
+        {% endif %}
+    </div>
+{% endif %}
