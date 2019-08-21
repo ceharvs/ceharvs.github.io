@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Design of a Community Science Cloud: The Open Science Data Cloud Perspective
+title: The Design of a Community Science Cloud
 description: At SC12 in Salt Lake City, Utah, a paper was published by on the Open Science Data Cloud.
 img: /img/osdc2.jpg
 ---
