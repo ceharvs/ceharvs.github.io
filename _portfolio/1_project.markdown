@@ -1,55 +1,16 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
-img: /img/12.jpg
+title: The Design of a Community Science Cloud: The Open Science Data Cloud Perspective
+description: At SC12 in Salt Lake City, Utah, a paper was published by on the Open Science Data Cloud.
+img: /img/osdc2.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+At SC12 in Salt Lake City, Utah, a paper was published by on the Open Science Data Cloud.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+The paper can be found in the <a href="http://www.computer.org/csdl/proceedings/sccompanion/2012/4956/00/4956b051-abs.html" target="blank"> IEEE Proceedings Repository</a>.
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+The full paper is also available on <a href="http://papers.rgrossman.com/proc-127.pdf" target="blank">Dr. Robert Grossman’s website</a>.
 
+**Abstract:**
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+In this paper we describe the design, and implementation of the Open Science Data Cloud, or OSDC. The goal of the OSDC is to provide petabyte-scale data cloud infrastructure and related services for scientists working with large quantities of data. Currently, the OSDC consists of more than 2000 cores and 2 PB of storage distributed across four data centers connected by 10G networks. We discuss some of the lessons learned during the past three years of operation and describe the software stacks used in the OSDC. We also describe some of the research projects in biology, the earth sciences, and social sciences enabled by the OSDC.

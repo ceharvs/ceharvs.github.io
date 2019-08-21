@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
-img: /img/2.jpg
+title: OSDC Workshop on MEG
+description: Presentation at the Annual Open Science Data Cloud Workshop in Edinburgh, UK.
+img: /img/2012osdcworkshop.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Presentation at the Annual Open Science Data Cloud Workshop in Edinburgh, UK.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+* Workshop Presentation: The MITRE Elastic Goal-Directed Simulation Framework
+* Program Agenda
 
 	---
 	layout: post
