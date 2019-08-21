@@ -2,7 +2,7 @@
 layout: post
 title: An Agent-Based Model for Financial Vulnerability
 description: Presentation at the Annual Open Science Data Cloud Workshop in Edinburgh, UK.
-img: /img/ofr_logo.png
+img: /img/orf_logo.png
 ---
 
 The Office of Financial Research recently released a working research paper on Agent Based Modeling for Financial Vulnerability.
@@ -11,9 +11,7 @@ The Office of Financial Research recently released a working research paper on A
 
 My contributions to this paper include work on the design of experiments and large-scale simulation runs.
 
-<div class="img_row">
-	<img class="col three" src="/img/ofrworkingpapergraphic.png">
-</div>
+<img src="/img/ofrworkingpapergraphic.png">
 
 
 <br/><br/><br/>
