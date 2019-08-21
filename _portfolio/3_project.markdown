@@ -1,15 +1,19 @@
 ---
 layout: post
-title: PRAS-DT
+title: An Agent-Based Model for Financial Vulnerability
 description: Presentation at the Annual Open Science Data Cloud Workshop in Edinburgh, UK.
-img: /img/prasdt.png
+img: /img/ofr_logo.png
 ---
 
-Presentation from the 2013 Open Science Data Cloud Workshop in Edinburgh, UK on Portable, Reliable, and Automatic Streaming Data Transfer (PRAS-DT).
+The Office of Financial Research recently released a working research paper on Agent Based Modeling for Financial Vulnerability.
 
-* [Workshop Presentation: The MITRE Elastic Goal-Directed Simulation Framework](/content/2013osdcworkshop-prasdt.pdf)
-* [Program Agenda](http://research.nesc.ac.uk/node/828)
+[The full paper is available on the Office’s research website.](http://www.treasury.gov/initiatives/ofr/research/Documents/OFRwp2014-05_BookstaberPaddrikTivnan_Agent-basedModelforFinancialVulnerability_revised.pdf)
 
+My contributions to this paper include work on the design of experiments and large-scale simulation runs.
+
+<div class="img_row">
+	<img class="col three" src="/img/ofrworkingpapergraphic.png">
+</div>
 
 
 <br/><br/><br/>
