@@ -8,9 +8,7 @@ permalink: /opportunities/
 
 <br/>
 
-# Opportunities
-
-##### SC Conference Series
+# SC Conference Series
 
 **<a href="https://sc19.supercomputing.org/program/studentssc/" target="blank">Student programs at SC</a>** are open to undergraduate and graduate students interested in High Performance Computing (HPC). Many programs include travel grants and mentoring opportunities:
 * Student Volunteers
@@ -19,16 +17,15 @@ permalink: /opportunities/
 * Early Career Program
 * ACM Student Research Competition
 
-
-##### ISC HPC Student Volunteers Program
+# ISC HPC Student Volunteers Program
 
 **<a href="https://www.isc-hpc.com/student-volunteers.html" target="blank">ISC Student Volunteers</a>** attend the ISC HPC conference in Frankfurt, Germany and help organize and run the conference. Students get full conference access, career development opportunities, and housing.
 
-##### Sustainable Horizons Institute Programs
+# Sustainable Horizons Institute Programs
 
 The **<a href="http://shinstitute.org" target="blank">Sustainable Horizons Institute</a>** provides a variety of programs for students, faculty, and professionals in computing.
 
-##### SIGHPC Student Travel Grants
+# SIGHPC Student Travel Grants
 
 **<a href="https://www.sighpc.org/for-your-career/student-travel-grants" target="blank">SIGHPC</a>** provides countless opportunities for students and professionals in HPC through community support. The SIG provides travel support to attend SC and PASC as well as travel support specifically for female students. 
 
