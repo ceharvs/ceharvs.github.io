@@ -1,5 +1,5 @@
 # Site settings
-title: *folio
+title: Portfolio
 email: ceharvs@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Christine Harvey's professional portfolio.
@@ -15,7 +15,7 @@ highlighter: rouge
 
 # Pagination
 paginate: 15
-paginate_path: "/home/page:num/"
+paginate_path: "/blog/page:num/"
 
 
 collections:
@@ -25,8 +25,5 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
-  blog:
-    output: true
-    permalink: /blog/:path/
 
 
