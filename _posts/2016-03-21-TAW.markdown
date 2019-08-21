@@ -1,0 +1,16 @@
+---
+layout: post
+title:  The Accessible World Conference
+date:   2016-03-21 16:40:16
+description: Volunteering with The Accessible World Conference
+---
+
+One of my early projects at MITRE resulted in a Tech Transfer to Simudyne and now has a nice feature in the <a href="https://www.wsj.com/articles/a-new-way-to-spot-the-next-financial-crisis-11545131907" target="blank"> Wall Street Journal</a>.
+
+I’m happy to share with everyone that I’ll be volunteering to help out with The Accessible World Conference and evoHaX Hackathon this April in Philadelphia!
+
+<a href="https://theaccessibleworld.herokuapp.com" target="blank">The Accessible World Conference 2016</a>
+
+For more information on the event, check out the website and keep up with my blog posts here:
+
+http://evoxlabs.org/people/christineharvey
