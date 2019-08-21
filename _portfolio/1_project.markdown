@@ -20,4 +20,4 @@ Additionally, I presented at the 2013 Open Science Data Cloud Workshop in Edinbu
 * [The MITRE Elastic Goal-Directed Simulation Framework](/content/ceh_osdcworkshop_approved.pdf)
 
 Finally, I was fortunate to present the following poster at the SC13 Conference:
-* [Portable, Reliable, and Automatic Streaming Data Transfer (PRAS-DT)](content/SC-osdc-poster.pdf)
+* [Portable, Reliable, and Automatic Streaming Data Transfer (PRAS-DT)](/content/SC-osdc-poster.pdf)
