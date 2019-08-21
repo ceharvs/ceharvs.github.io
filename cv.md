@@ -115,14 +115,17 @@ Army Research Lab, Aberdeen Proving Ground, MD
 # Publications
 
 **Book Chapters**
+
 M. Koehler, S. Michel, D. Slater, **C. Harvey**, A. Andrei, and K. Comer, “Investigating the Effects of Network Structures in Massive Agent-Based Models of Tax Evasion,” in Agent-based Modeling of Tax Evasion, John Wiley & Sons, Ltd, 2018, pp. 225–253.
 
 **Papers**
+
 **C. Harvey** and R. S. Weigel, “Transplant2Mongo: Python Scripts that Insert Organ Procurement and Transplantation Network (OPTN) Data in MongoDB,” Journal of Open Research Software, vol. 7, no. 1, p. 5, 2019. [Online]. Available: http://doi.org/10.5334/jors.229.
 
 **C. Harvey**, S. Rosen, J. Ramsey, C. Saunders, and S. K. Guharay, “Computa- tionally and statistically efficient model fitting techniques,” Journal of Statistical Computation and Simulation, vol. 87, no. 1, pp. 123–137, Jan. 2017.
 
 **Conference Proceedings**
+
 **C. Harvey** and J. Thompson, “Exploring Advantages in the Waiting List for Organ Donations,” in Proceedings of the Winter Simulation Conference 2016, Arlington, VA. 2016.
 
 S. Rosen, P. Salemi, E. Catlett, **C. Harvey**, B. Wickham, and A. Williams, “Parallel Empirical Stochastic Branch and Bound for Large-Scale Discrete Optimization via Simulation,” in Proceedings of th Winter Simulation Conference 2016. Arlington, VA. 2016.
@@ -134,6 +137,7 @@ S. Rosen, P. Salemi, E. Catlett, **C. Harvey**, B. Wickham, and A. Williams, “
 R. L. Grossman, M. Greenway, A. Heath, R. Powell, R. Suarez, W. Wells, K. White, M. Atkinson, I. Klampanos, H. Alvarez, **C. Harvey**, and J. Mambretti, “The Design of a Community Science Cloud: The Open Science Data Cloud Perspective,” in SC Companion 2012, Salt Lake City, UT. 2012, 1051-1057.
 
 **Posters & Presentations**
+
 **C. Harvey** and A. Gartner, “Corporate Tools for GPU Access and Software Devel- opment,” presented at GPU Technology Conference 2019, San Jose, CA. 2019.
 
 **C. Harvey** and J. Gentile, “Synchronization Methods for Distributed Agent Based Models,” presented at PyCon 2017, Portland, OR. 2017.
@@ -161,31 +165,31 @@ R. L. Grossman, M. Greenway, A. Heath, R. Powell, R. Suarez, W. Wells, K. White,
 **C. Harvey**, Z. Firth, D. Moore, J. Soehlke, I. Vayndiner, S. Wijesinghe, T. Suder, and T. Harvey, “June 2015 Federal Big Data Summit Report,” published following the June 2015 Federal Big Data Summit, Washington, DC. 2015.
 
 # Volunteer Activities & Honors
-**SIGHPC Treasurer**, 2019 to Present 
+**SIGHPC Treasurer**, 2019 to Present <br>
 Member of the executive committee for the Special Interest Group on High Performance Computing (SIGHPC) as the Treasurer. Responsibilities include managing the SIG’s budget, developing pipelines for funding new programs, and evaluating operating costs.
 
-**SIGHPC Membership Coordinator**, 2017 to Present 
+**SIGHPC Membership Coordinator**, 2017 to Present <br>
 Member of the executive committee for the Special Interest Group on High Performance Computing (SIGHPC) as the Membership Coordinator. Responsibilities include monitoring and promoting membership in the special interest group and managing the yearly booth at the Supercomputing Conference.
 
-**The Supercomputing Conference**, 2014 to Present 
-2020: Students@SC Chair on the Executive Committee. 
-2019: Communications Liaison for Live Events. 
-2018: Chair of Student Volunteers. 
-2017: Chair of Social Media and Chair of Student Outreach. 
-2016: Chair of Student Outreach. 
-2015: Student Volunteers Committee Member. 
-2014: Broader Engagement Committee Member. 
-2013: Broader Engagement Participant. 
-2012: Wireless SCinet Student Volunteer.
+**The Supercomputing Conference**, 2014 to Present <br>
+2020: Students@SC Chair on the Executive Committee. <br>
+2019: Communications Liaison for Live Events. <br>
+2018: Chair of Student Volunteers. <br>
+2017: Chair of Social Media and Chair of Student Outreach. <br>
+2016: Chair of Student Outreach. <br>
+2015: Student Volunteers Committee Member. <br>
+2014: Broader Engagement Committee Member. <br>
+2013: Broader Engagement Participant. <br>
+2012: Wireless SCinet Student Volunteer.<br>
 2011: Student Volunteer.
 
-**Winter Simulation Conference**, 2017 to Present 
-2020: Business Chair. 
+**Winter Simulation Conference**, 2017 to Present <br>
+2020: Business Chair. <br>
 2017: Publicity Chair.
 
-**SIAM Computational Science and Engineering Conference** 2015 to Present 
-2019: Committee member for the Broader Engagement program. 
-2017: Committee member for the Broader Engagement program.
+**SIAM Computational Science and Engineering Conference** 2015 to Present <br>
+2019: Committee member for the Broader Engagement program. <br>
+2017: Committee member for the Broader Engagement program.<br>
 2015: Committee member for the Broader Engagement program.
 
 # Other Activities
