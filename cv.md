@@ -120,9 +120,9 @@ M. Koehler, S. Michel, D. Slater, **C. Harvey**, A. Andrei, and K. Comer, “Inv
 
 **Papers**
 
-**C. Harvey** and R. S. Weigel, “Transplant2Mongo: Python Scripts that Insert Organ Procurement and Transplantation Network (OPTN) Data in MongoDB,” Journal of Open Research Software, vol. 7, no. 1, p. 5, 2019. [Online]. Available: http://doi.org/10.5334/jors.229.
+[**C. Harvey** and R. S. Weigel, “Transplant2Mongo: Python Scripts that Insert Organ Procurement and Transplantation Network (OPTN) Data in MongoDB,” Journal of Open Research Software, vol. 7, no. 1, p. 5, 2019. [Online]. Available: http://doi.org/10.5334/jors.229.](http://doi.org/10.5334/jors.229)
 
-**C. Harvey**, S. Rosen, J. Ramsey, C. Saunders, and S. K. Guharay, “Computa- tionally and statistically efficient model fitting techniques,” Journal of Statistical Computation and Simulation, vol. 87, no. 1, pp. 123–137, Jan. 2017.
+[**C. Harvey**, S. Rosen, J. Ramsey, C. Saunders, and S. K. Guharay, “Computa- tionally and statistically efficient model fitting techniques,” Journal of Statistical Computation and Simulation, vol. 87, no. 1, pp. 123–137, Jan. 2017.](http://www.tandfonline.com/doi/abs/10.1080/00949655.2016.1194838?scroll=top&needAccess=true&journalCode=gscs20)
 
 **Conference Proceedings**
 
