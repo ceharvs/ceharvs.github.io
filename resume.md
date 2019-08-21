@@ -165,28 +165,28 @@ R. L. Grossman, M. Greenway, A. Heath, R. Powell, R. Suarez, W. Wells, K. White,
 Member of the executive committee for the Special Interest Group on High Performance Computing (SIGHPC) as the Treasurer. Responsibilities include managing the SIG’s budget, developing pipelines for funding new programs, and evaluating operating costs.
 
 **SIGHPC Membership Coordinator**, 2017 to Present 
-Member of the executive committee for the Special Interest Group on High Performance Computing (SIGHPC) as the Membership Coordinator. Responsibilities include monitoring and promoting membership in the special interest group and man- aging the yearly booth at the Supercomputing Conference.
+Member of the executive committee for the Special Interest Group on High Performance Computing (SIGHPC) as the Membership Coordinator. Responsibilities include monitoring and promoting membership in the special interest group and managing the yearly booth at the Supercomputing Conference.
 
 **The Supercomputing Conference**, 2014 to Present 
-2020. Students@SC Chair on the Executive Committee. 
-2019. Communications Liaison for Live Events. 
-2018. Chair of Student Volunteers. 
-2017. Chair of Social Media and Chair of Student Outreach. 
-2016. Chair of Student Outreach. 
-2015. Student Volunteers Committee Member. 
-2014. Broader Engagement Committee Member. 
-2013. Broader Engagement Participant. 
-2012. Wireless SCinet Student Volunteer.
-2011. Student Volunteer.
+2020: Students@SC Chair on the Executive Committee. 
+2019: Communications Liaison for Live Events. 
+2018: Chair of Student Volunteers. 
+2017: Chair of Social Media and Chair of Student Outreach. 
+2016: Chair of Student Outreach. 
+2015: Student Volunteers Committee Member. 
+2014: Broader Engagement Committee Member. 
+2013: Broader Engagement Participant. 
+2012: Wireless SCinet Student Volunteer.
+2011: Student Volunteer.
 
 **Winter Simulation Conference**, 2017 to Present 
-2020. Business Chair. 
-2017. Publicity Chair.
+2020: Business Chair. 
+2017: Publicity Chair.
 
-**SIAM Computational Science and Engineering Conference** 2015 to Present 2019. 
-Committee member for the Broader Engagement program. 
-2017. Committee member for the Broader Engagement program.
-2015. Committee member for the Broader Engagement program.
+**SIAM Computational Science and Engineering Conference** 2015 to Present 
+2019: Committee member for the Broader Engagement program. 
+2017: Committee member for the Broader Engagement program.
+2015: Committee member for the Broader Engagement program.
 
 # Other Activities
 Stockton College Field Hockey, NFHCA National Academic Squad (08-09), MITRE Softball Treasurer, Adult Co-Ed Soccer Enthusiast, Mentor for the MITRE Intern Program and Young Women in Engineering Day.
