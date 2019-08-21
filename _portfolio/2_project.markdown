@@ -1,16 +1,10 @@
 ---
 layout: post
-title: OSDC Workshop on MEG
-description: Presentation at the Annual Open Science Data Cloud Workshop in Edinburgh, UK.
+title: OSDC PIRE at SC13
+description: Video interview for the OSDC PIRE program at SC13.
 img: /img/2012osdcworkshop.png
+redirect: https://unsplash.com
 ---
 
-Presentation at the Annual Open Science Data Cloud Workshop in Edinburgh, UK.
 
-* [Workshop Presentation: The MITRE Elastic Goal-Directed Simulation Framework](content/ceh_osdcworkshop_approved.pdf)
-* [Program Agenda](http://research.nesc.ac.uk/node/828)
-
-
-
-<br/><br/><br/>
 
