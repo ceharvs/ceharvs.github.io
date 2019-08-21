@@ -46,8 +46,13 @@ permalink: /portfolio/
 
 {% endfor %}
 
+
+<br/>
 <br/>
 <hr/>
+<div class="col three caption">
+  The best way to reach me is through e-mail or a LinkedIn message.
+</div>
 <br/>
 <span class="contacticon center">
   <a href="https://orcid.org/0000-0002-3941-3895" target="_blank"><i class="fa fa-fingerprint"></i></a>
