@@ -4,9 +4,9 @@ title: resume
 permalink: /resume/
 ---
 
-# Christine Harvey
+<h1>Christine Harvey</h1>
 
-## Education
+<h2>Education</h2>
 
 **George Mason University - Fairfax, VA,** Expected: May 2019 
 *PhD Candidate, Computational Sciences and Informatics* 
@@ -17,13 +17,13 @@ permalink: /resume/
 **Richard Stockton College of New Jersey - Galloway, NJ** Aug. 2011 
 *Bachelor of Science in Computational Science with a Minor in Mathematics*
 
-## Development Skills
+<h2>Development Skills</h2>
 
 C/C++, Java, Python, Moab/TORQUE, MATLAB, MPI, R, NetLogo, Slurm, Mon- SKILLS goDB, JIRA, Git
 
-## Experience
+<h2>Experience</h2>
 
-### Lead High Performance and Analytic Computing Engineer, June 2016 - Present 
+<h3>Lead High Performance and Analytic Computing Engineer, June 2016 - Present</h3>
 *The MITRE Corporation, McLean, VA*
 
 **High Performance Computing at MITRE**
