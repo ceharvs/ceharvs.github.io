@@ -1,0 +1,29 @@
+---
+layout: post
+title:  A Summer in Santa Fe
+date:   2015-07-11 16:40:16
+description: Complex Systems Summer School at the Santa Fe Institute
+
+---
+
+Over the summer I had the amazing opportunity to attend the Santa Fe Institute’s Complex Systems Summer School.  This interdisciplinary brings together graduate students, post-docs, and professionals with backgrounds ranging from Biology to Geology to Economics and Computer Science.
+
+I met some of the most intelligent people I’ve ever had the pleasure of working with at the program and attended lectured by some of the pioneers that made their fields famous.  On top of all that, I was able to spend a month living in Santa Fe at St. John’s College and climbed a mountain or two!
+
+[For more information on the summer school, check out the program’s website.](http://www.santafe.edu/education/schools/complex-systems-summer-schools/)
+
+<div class="img_row">
+	<img class="col three" src="/img/sfi1.jpg">
+</div>
+
+<div class="img_row">
+	<img class="col three" src="/img/sfi2.jpg">
+</div>
+<div class="img_row">
+	<img class="col three" src="/img/sfi3.jpg">
+</div>
+<div class="img_row">
+	<img class="col three" src="/img/sfi5.jpg">
+</div>
+
+
