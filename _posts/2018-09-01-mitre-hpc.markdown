@@ -1,0 +1,19 @@
+---
+layout: post
+title:  Working at MITRE Profile
+date:   2018-09-01 16:40:16
+description: A High-Performing Computer Engineer Leads a "Super" Lab
+
+---
+
+MITRE has shared a summary of my career so far and my role at the company on through the Employee Voices blog.  Visit the article to learn more about careers at MITRE and what influenced my career choices. 
+
+I was recently featured on the SC19 blog in a lovely article written by Job Bashor, highlighting my volunteer experience with the SC conference and how it's impacted my life.
+
+[MITRE Employee Voices](https://www.mitre.org/careers/working-at-mitre/employee-voices/a-high-performing-computer-engineer-leads-a-super-lab?from=li)
+
+<div class="img_row">
+	<img class="col three" src="/img/Christine-Harvey.jpg">
+</div>
+
+

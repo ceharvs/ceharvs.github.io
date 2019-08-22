@@ -5,7 +5,7 @@ date:   2019-03-14 16:40:16
 description: After an exciting review process, our work on translating OPTN STAR files to MongoDB has been published in the Journal of Open Research Software (JORS).
 ---
 
-[View the article now!\(https://openresearchsoftware.metajnl.com/articles/10.5334/jors.229/)
+[View the article now!](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.229/)
 
 # Abstract
 
