@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Featured blog post on the #SC19 Website
+title:  Featured blog post on the SC19 Website
 date:   2019-03-14 16:40:16
 description: Parallel Tracks- From Student to Student Volunteer Chair, from Undergrad to Doctoral Candidate
 ---
