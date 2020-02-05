@@ -6,8 +6,8 @@ permalink: /cv/
 
 # Education
 
-**George Mason University - Fairfax, VA,** Expected: May 2019 
-*PhD Candidate, Computational Sciences and Informatics* 
+**George Mason University - Fairfax, VA,** December 2019 
+*Doctor of Philosophy, Computational Sciences and Informatics* 
 * Focus: Modeling, Simulation, and Analysis of the Organ Transplant System
 * Research Interests: Modeling and Simulation, High Performance Computing, Agent Based Modeling, Discrete Event Simulation.
 
@@ -30,12 +30,13 @@ The MITRE Corporation, McLean, VA
 * Service Manager for MITRE’s High Performance Computing (HPC) technologies within Corporate Operations. This role involves running the systems, planning purchasing and investments, and providing all user training and support.
 * Provide cluster maintenance including performing installations and updates to the systems as well as monitoring and maintaining the health and status of the clusters and resource managers.
 * Train all users of the HPC systems to use the systems knowledgeably and responsibly. Provide knowledge and expertise to users to help parallelize code and run applications and software on high performance computing systems.
-* Manage the team running the production HPC systems including a yearly summer cohort of interns and part-time employees.
+* Manage the team running the production HPC systems including a yearly summer cohort of interns and several full-time staff members.
 
 *Data Collection Lead for SIMEX*
 * Coordinate and manage the data collection and analysis plan for the simulation experiment (SIMEX) including SIMEX 17-3, SIMEX 18-1, SIMEX 18-3, and SIMEX 19-2. These experiments have been for various government sponsors including the US Navy, US Army, Air Forces Central Command, Army Central Command, the Department of Homeland Security, the Office of the Secretary of Defense, and the North American Aerospace Defense Command in classified and unclassified simulation experiments covering topics ranging from submarine communications to Counter-small Unmanned Aircraft Systems (C-sUAS).
 * Lead the team of analysts and developers to preform the data collection and subsequent analysis of the data for a final report to the sponsors.
 * Coordinate the entire experiment design process including designing the experiment, collaborating with the sponsors, collecting data for the experiment, performing the analysis, and authoring the final report.
+* Provide support for additional experiments run by the program to ensure consistency and quality across all implementations, specifically regarding experiment design, analysis, and data management.
 
 *MITRE Organizer of the Federal Big Data Summit*
 * Create and managed teams of leads for the MITRE-ATARC Big Data Summit Collaboration Sessions. Teams consisted of four to five senior leaders from government, industry, and MITRE.
@@ -64,6 +65,7 @@ The MITRE Corporation, McLean, VA
 
 **Modeling and Simulation Staff,** Jan. 2013 - May 2015 
 The MITRE Corporation, McLean, VA
+* Worked with MITRE's senior leadership to develop the corporation's Student Loan Repayment program.
 
 *Analysis of the Organ Transplant System*
 * Principal investigator of an Early Career Research Program (ECRP) project sponsored by the MITRE Innovation Program to perform data analysis of the organ transplant system.
@@ -171,12 +173,16 @@ Member of the executive committee for the Special Interest Group on High Perform
 **SIGHPC Membership Coordinator**, 2017 to Present <br>
 Member of the executive committee for the Special Interest Group on High Performance Computing (SIGHPC) as the Membership Coordinator. Responsibilities include monitoring and promoting membership in the special interest group and managing the yearly booth at the Supercomputing Conference.
 
+**SC Steering Committee**, 2020 to Present <br>
+Member of the SC steering committee which oversees the annual conference on High Performance Computing, Networking, Storage, and Analysis. 
+
 **The Supercomputing Conference**, 2014 to Present <br>
+2021: Security Chair <br>
 2020: Students@SC Chair on the Executive Committee. <br>
 2019: Communications Liaison for Live Events. <br>
-2018: Chair of Student Volunteers. <br>
-2017: Chair of Social Media and Chair of Student Outreach. <br>
-2016: Chair of Student Outreach. <br>
+2018: Student Volunteers Chair. <br>
+2017: Social Media Chair and Student Outreach Chair. <br>
+2016: Student Outreach Chair. <br>
 2015: Student Volunteers Committee Member. <br>
 2014: Broader Engagement Committee Member. <br>
 2013: Broader Engagement Participant. <br>
