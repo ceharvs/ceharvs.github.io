@@ -6,15 +6,15 @@ permalink: /cv/
 
 # Education
 
-**George Mason University - Fairfax, VA,** December 2019 
+**George Mason University - Fairfax, VA,** December 2019 <br>
 *Doctor of Philosophy, Computational Sciences and Informatics* 
 * Focus: Modeling, Simulation, and Analysis of the Organ Transplant System
 * Research Interests: Modeling and Simulation, High Performance Computing, Agent Based Modeling, Discrete Event Simulation.
 
-**Richard Stockton College of New Jersey - Galloway, NJ** May 2013 
+**Richard Stockton College of New Jersey - Galloway, NJ** May 2013 <br>
 *Masters of Science in Computational Science*
 
-**Richard Stockton College of New Jersey - Galloway, NJ** Aug. 2011 
+**Richard Stockton College of New Jersey - Galloway, NJ** Aug. 2011 <br>
 *Bachelor of Science in Computational Science with a Minor in Mathematics*
 
 # Development Skills
@@ -23,7 +23,7 @@ C/C++, Java, Python, Moab/TORQUE, MATLAB, MPI, R, NetLogo, Slurm, Mon- SKILLS go
 
 # Experience
 
-**Lead High Performance and Analytic Computing Engineer**, June 2016 - Present 
+**Lead High Performance and Analytic Computing Engineer**, June 2016 - Present <br>
 The MITRE Corporation, McLean, VA
 
 *High Performance Computing at MITRE*
@@ -42,7 +42,7 @@ The MITRE Corporation, McLean, VA
 * Create and managed teams of leads for the MITRE-ATARC Big Data Summit Collaboration Sessions. Teams consisted of four to five senior leaders from government, industry, and MITRE.
 * Co-authored and edited the Summit’s white paper for the June 2015 and the December 2015-2017 Federal Big Data Summit, along with the leads from MITRE.
 
-**Senior Simulation and Modeling Engineer**, May 2015 - June 2016 
+**Senior Simulation and Modeling Engineer**, May 2015 - June 2016 <br>
 The MITRE Corporation, McLean, VA
 
 *Analysis of the Organ Transplant System*
@@ -63,7 +63,7 @@ The MITRE Corporation, McLean, VA
 * Responsible for organizing and running the live demonstrations given to sponsors for the work on this project.
 
 
-**Modeling and Simulation Staff,** Jan. 2013 - May 2015 
+**Modeling and Simulation Staff,** Jan. 2013 - May 2015 <br>
 The MITRE Corporation, McLean, VA
 * Worked with MITRE's senior leadership to develop the corporation's Student Loan Repayment program.
 
@@ -94,22 +94,22 @@ The MITRE Corporation, McLean, VA
 * Developed reports for presentation to the Engineering council on the MIP Program including the MITRE Millennials Report and the Annual Strategy Market Report.
 
 
-**Fellow** May 2012 - Aug. 2012 
+**Fellow** May 2012 - Aug. 2012 <br>
 Open Science Data Cloud, Edinburgh, UK
 * Joined the University of Edinburgh School of Informatics team in an internship sponsored by the National Science Foundation to develop software services for integrating, analyzing, sharing, and archiving scientific data.
 * Collaborated with faculty to study and implement methods to facilitate large data transfers using Globus Online. Work focused on data transfer for brittle rock failure experiments in the EFFORT project.
 
-**Student IT Intern** Jan. 2012 - June 2012 
+**Student IT Intern** Jan. 2012 - June 2012 <br>
 Spencer Gifts, Egg Harbor Twp., NJ
 * In a team environment, participated in the software design and development of a SharePoint intranet to enable regional and national users to share product, financial, and management data.
 * Implemented programs in XML, SQL, and C# to manage data workflows, con- tent and reports.
 
-**Student Technical Assistant** May 2009 - Aug. 2009 
+**Student Technical Assistant** May 2009 - Aug. 2009 <br>
 Maryland Department of the Environment, Baltimore, MD
 * Interned as the sole Student Technical Assistant for the state Air Monitoring Program.
 * Created software tool in Java for browsing archived meteorological data with user input. This allowed the department meteorologists to easily navigate through images.
 
-**Student Mentee** May 2007 - May 2008 
+**Student Mentee** May 2007 - May 2008 <br>
 Army Research Lab, Aberdeen Proving Ground, MD
 * Participated in a capstone research project in accordance with the Army Research Laboratory
 * Completed a computational analysis of the effects of bin width on the estimated dispersion of the M1028 Canister Round, for the Weapons and Materials Research Directorate.
