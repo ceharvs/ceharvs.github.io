@@ -1,5 +1,5 @@
 ---
-layout: tips
+layout: page
 title: tips
 permalink: /tips/
 ---
