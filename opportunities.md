@@ -6,6 +6,7 @@ permalink: /opportunities/
 
 <img class="col one right" src="/img/SC18-LeadVols.jpg">
 
+Check out the great programs highlighted below.  Before you apply, review my [tips on building your resume and online portfolio](/tips)!
 <br/>
 
 # SC Conference Series
