@@ -8,7 +8,7 @@ permalink: /cv/
 
 **George Mason University - Fairfax, VA,** December 2019 <br>
 *Doctor of Philosophy, Computational Sciences and Informatics* 
-* Focus: Modeling, Simulation, and Analysis of the Organ Transplant System
+* [Dissertation: Modeling, Simulation, and Analysis of the Organ Transplant System](https://search.proquest.com/openview/14175fa4f9aa14647988e54c7b0c5f72/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)
 
 **Richard Stockton College of New Jersey - Galloway, NJ** May 2013 <br>
 *Masters of Science in Computational Science*
