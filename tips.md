@@ -4,7 +4,7 @@ title: tips
 permalink: /tips/
 ---
 
-Coming soon...
+# Coming Soon...
 
 
 <br/>
