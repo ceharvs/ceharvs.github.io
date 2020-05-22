@@ -9,7 +9,6 @@ permalink: /cv/
 **George Mason University - Fairfax, VA,** December 2019 <br>
 *Doctor of Philosophy, Computational Sciences and Informatics* 
 * Focus: Modeling, Simulation, and Analysis of the Organ Transplant System
-* Research Interests: Modeling and Simulation, High Performance Computing, Agent Based Modeling, Discrete Event Simulation.
 
 **Richard Stockton College of New Jersey - Galloway, NJ** May 2013 <br>
 *Masters of Science in Computational Science*
