@@ -26,15 +26,16 @@ C/C++, Java, Python, Moab/TORQUE, MATLAB, MPI, R, NetLogo, Slurm, Mon- SKILLS go
 The MITRE Corporation, McLean, VA
 
 *High Performance Computing at MITRE*
-* Service Manager for MITRE’s High Performance Computing (HPC) technologies within Corporate Operations. This role involves running the systems, planning purchasing and investments, and providing all user training and support.
+* Serve as the Service Manager for MITRE's High Performance Computing (HPC) technologies within Corporate Operations. This role involves driving the strategic planning for the future of HPC as a corporate service including system purchases and federating research computing environments and infrastructure across MITRE.
+* Lead purchasing efforts for High Performance Computing (HPC) technologies within the corporation.
 * Provide cluster maintenance including performing installations and updates to the systems as well as monitoring and maintaining the health and status of the clusters and resource managers.
 * Train all users of the HPC systems to use the systems knowledgeably and responsibly. Provide knowledge and expertise to users to help parallelize code and run applications and software on high performance computing systems.
 * Manage the team running the production HPC systems including a yearly summer cohort of interns and several full-time staff members.
 
 *Data Collection Lead for SIMEX*
-* Coordinate and manage the data collection and analysis plan for the simulation experiment (SIMEX) including SIMEX 17-3, SIMEX 18-1, SIMEX 18-3, and SIMEX 19-2. These experiments have been for various government sponsors including the US Navy, US Army, Air Forces Central Command, Army Central Command, the Department of Homeland Security, the Office of the Secretary of Defense, and the North American Aerospace Defense Command in classified and unclassified simulation experiments covering topics ranging from submarine communications to Counter-small Unmanned Aircraft Systems (C-sUAS).
-* Lead the team of analysts and developers to preform the data collection and subsequent analysis of the data for a final report to the sponsors.
-* Coordinate the entire experiment design process including designing the experiment, collaborating with the sponsors, collecting data for the experiment, performing the analysis, and authoring the final report.
+* Coordinate and manage data collection and analysis for the simulation experiment (SIMEX) program including SIMEX 17-3, SIMEX 18-1, SIMEX 18-3, SIMEX 19-2, and SIMEX 21-3. These experiments support various government sponsors including the Department of Homeland Security, the Office of the Secretary of Defense, and the North American Aerospace Defense Command in classified and unclassified experiments covering topics ranging from active shooter scenarios to counter-small Unmanned Aircraft Systems (C-sUAS).
+* Architect the entire experiment process including designing the experiment, collaborating with the sponsors on research questions, collecting data for the experiment with live data feeds, executing the analysis, and authoring the final report.
+* Lead a team of analysts and developers to architect and perform the data collection and cleaning from live data feeds including Unity Logs and Distributed Interactive Simulation (DIS) data as well as the subsequent statistical and qualitative analysis of the data with R and Python.
 * Provide support for additional experiments run by the program to ensure consistency and quality across all implementations, specifically regarding experiment design, analysis, and data management.
 
 *MITRE Organizer of the Federal Big Data Summit*
@@ -176,9 +177,11 @@ Member of the executive committee for the Special Interest Group on High Perform
 Member of the SC steering committee which oversees the annual conference on High Performance Computing, Networking, Storage, and Analysis. 
 
 **The Supercomputing Conference**, 2014 to Present <br>
-2021: Security Chair <br>
+2021: Security Chair. <br>
+2021: Technical Program Research Posters Committee. <br>
 2020: Students@SC Chair on the Executive Committee. <br>
 2019: Communications Liaison for Live Events. <br>
+2019: Technical Program Paper Reviewer. <br>
 2018: Student Volunteers Chair. <br>
 2017: Social Media Chair and Student Outreach Chair. <br>
 2016: Student Outreach Chair. <br>
@@ -193,12 +196,13 @@ Member of the SC steering committee which oversees the annual conference on High
 2017: Publicity Chair.
 
 **SIAM Computational Science and Engineering Conference** 2015 to Present <br>
+2021: Committee member for the Broader Engagement program. <br>
 2019: Committee member for the Broader Engagement program. <br>
 2017: Committee member for the Broader Engagement program.<br>
 2015: Committee member for the Broader Engagement program.
 
 # Other Activities
-Stockton College Field Hockey, NFHCA National Academic Squad (08-09), MITRE Softball Treasurer, Adult Co-Ed Soccer Enthusiast, Mentor for the MITRE Intern Program and Young Women in Engineering Day.
+Stockton College Field Hockey, NFHCA National Academic Squad (08-09), MITRE Softball Treasurer, Adult Co-Ed Soccer Enthusiast, City Impact Tutor, Mentor for the MITRE Intern Program and Young Women in Engineering Day.
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3941-3895" href="https://orcid.org/0000-0002-3941-3895" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3941-3895</a></div>
 
