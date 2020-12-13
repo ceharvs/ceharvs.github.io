@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  SC20 Videos for Students@SC
+title:  Statement on Racial and Ethnic Diversity and Inclusion
 date:   2020-11-01 10:00:00
-description: Highlights and Videos for SC20 and the Students@SC Program
+description: SC Steering Statement on Racial and Ethnic Diversity and Inclusion
 
 ---
 
