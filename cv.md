@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Education
 
-**George Mason University - Fairfax, VA,** December 2019 <br>
+**George Mason University - Fairfax, VA,** Dec. 2019 <br>
 *Doctor of Philosophy, Computational Sciences and Informatics* 
 [Dissertation: Modeling, Simulation, and Analysis of the Organ Transplant System](https://search.proquest.com/openview/14175fa4f9aa14647988e54c7b0c5f72/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)
 
@@ -18,31 +18,44 @@ permalink: /cv/
 
 # Development Skills
 
-C/C++, Java, Python, Moab/TORQUE, MATLAB, MPI, R, NetLogo, Slurm, Mon- SKILLS goDB, JIRA, Git
+C/C++, Java, Python, Moab/TORQUE, MATLAB, MPI, R, NetLogo, Slurm, MongoDB, JIRA, Git
 
 # Experience
 
-**Lead High Performance and Analytic Computing Engineer**, June 2016 - Present <br>
+**Principal High Performance and Analytic Computing Architect**, Jan. 2021 - Present <br>
 The MITRE Corporation, McLean, VA
 
-*High Performance Computing at MITRE*
-* Serve as the Service Manager for MITRE's High Performance Computing (HPC) technologies within Corporate Operations. This role involves driving the strategic planning for the future of HPC as a corporate service including system purchases and federating research computing environments and infrastructure across MITRE.
-* Lead purchasing efforts for High Performance Computing (HPC) technologies within the corporation.
-* Provide cluster maintenance including performing installations and updates to the systems as well as monitoring and maintaining the health and status of the clusters and resource managers.
-* Train all users of the HPC systems to use the systems knowledgeably and responsibly. Provide knowledge and expertise to users to help parallelize code and run applications and software on high performance computing systems.
-* Manage the team running the production HPC systems including a yearly summer cohort of interns and several full-time staff members.
+*High Performance Computing Architect*
+* Coordinate and drive strategic planning for the future of High Performance Computing (HPC) at MITRE including system purchases and federating research computing environments across MITRE.
+* Develop training for HPC users across the corporation through online modules, group mentoring, and advanced training sessions. 
+* Manage the teams running the production HPC systems including a yearly summer cohort of interns and several full-time staff members.
 
-*Data Collection Lead for SIMEX*
-* Coordinate and manage data collection and analysis for the simulation experiment (SIMEX) program including SIMEX 17-3, SIMEX 18-1, SIMEX 18-3, SIMEX 19-2, and SIMEX 21-3. These experiments support various government sponsors including the Department of Homeland Security, the Office of the Secretary of Defense, and the North American Aerospace Defense Command in classified and unclassified experiments covering topics ranging from active shooter scenarios to counter-small Unmanned Aircraft Systems (C-sUAS).
-* Architect the entire experiment process including designing the experiment, collaborating with the sponsors on research questions, collecting data for the experiment with live data feeds, executing the analysis, and authoring the final report.
-* Lead a team of analysts and developers to architect and perform the data collection and cleaning from live data feeds including Unity Logs and Distributed Interactive Simulation (DIS) data as well as the subsequent statistical and qualitative analysis of the data with R and Python.
-* Provide support for additional experiments run by the program to ensure consistency and quality across all implementations, specifically regarding experiment design, analysis, and data management.
+*SIMEX Data Collection Lead*
+* Support the simulation experiment (SIMEX) program data collection and analysis efforts for multiple sponsors including the Department of Homeland Security, the Office of the Secretary of Defense, and the North American Aerospace Defense Command in classified and unclassified experiments covering topics ranging from active shooter scenarios to counter-small Unmanned Aircraft Systems (C-sUAS).
+* Provide leadership across the SIMEX program in best practices for data collection, analysis, experiment design, and project management.
+* Lead the data collection and analysis teams for experiments including SIMEX 21-3 and provide support to additional experiments to ensure consistency and quality across the SIMEX program. 
+
+**Lead High Performance and Analytic Computing Engineer**, Jun. 2016 - Jan. 2021 <br>
+The MITRE Corporation, McLean, VA
+
+*High Performance Computing Service Manager*
+* Served as the Service Manager for MITRE's HPC technologies within Corporate Operations. 
+* Led purchasing efforts for HPC within the corporation.  
+* Provided cluster maintenance including performing installations and updates to the systems as well as monitoring and maintaining the health and status of the clusters and resource managers.
+* Trained all users of the HPC systems to use the systems knowledgeably and responsibly. Provided knowledge and expertise to users to help parallelize code and run applications and software on high performance computing systems.
+* Managed the team running the production HPC systems including a yearly summer cohort of interns and several full-time staff members.
+
+*SIMEX Data Collection Lead*
+* Coordinated and managed data collection and analysis for the SIMEX program including SIMEX 17-3, SIMEX 18-1, SIMEX 18-3, SIMEX 19-2, SIMEX 20-5, and SIMEX 20-6. These experiments support various government sponsors including the Department of Homeland Security, the Office of the Secretary of Defense, and the North American Aerospace Defense Command in classified and unclassified experiments covering topics ranging from active shooter scenarios to counter-small Unmanned Aircraft Systems (C-sUAS).
+* Architected the entire experiment process including designing the experiment, collaborating with the sponsors on research questions, collecting data for the experiment with live data feeds, executing the analysis, and authoring the final report.
+* Led teams of analysts and developers to architect and perform the data collection and cleaning from live data feeds including Unity Logs and Distributed Interactive Simulation (DIS) data as well as the subsequent statistical and qualitative analysis of the data with R and Python.
+* Provided support for additional experiments run by the program to ensure consistency and quality across all implementations, specifically regarding experiment design, analysis, and data management.
 
 *MITRE Organizer of the Federal Big Data Summit*
-* Create and managed teams of leads for the MITRE-ATARC Big Data Summit Collaboration Sessions. Teams consisted of four to five senior leaders from government, industry, and MITRE.
+* Created and managed teams of leads for the MITRE-ATARC Big Data Summit Collaboration Sessions. Teams consisted of four to five senior leaders from government, industry, and MITRE.
 * Co-authored and edited the Summit’s white paper for the June 2015 and the December 2015-2017 Federal Big Data Summit, along with the leads from MITRE.
 
-**Senior Simulation and Modeling Engineer**, May 2015 - June 2016 <br>
+**Senior Simulation and Modeling Engineer**, May 2015 - Jun. 2016 <br>
 The MITRE Corporation, McLean, VA
 
 *Analysis of the Organ Transplant System*
@@ -99,7 +112,7 @@ Open Science Data Cloud, Edinburgh, UK
 * Joined the University of Edinburgh School of Informatics team in an internship sponsored by the National Science Foundation to develop software services for integrating, analyzing, sharing, and archiving scientific data.
 * Collaborated with faculty to study and implement methods to facilitate large data transfers using Globus Online. Work focused on data transfer for brittle rock failure experiments in the EFFORT project.
 
-**Student IT Intern** Jan. 2012 - June 2012 <br>
+**Student IT Intern** Jan. 2012 - Jun. 2012 <br>
 Spencer Gifts, Egg Harbor Twp., NJ
 * In a team environment, participated in the software design and development of a SharePoint intranet to enable regional and national users to share product, financial, and management data.
 * Implemented programs in XML, SQL, and C# to manage data workflows, con- tent and reports.
