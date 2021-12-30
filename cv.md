@@ -183,13 +183,15 @@ R. L. Grossman, M. Greenway, A. Heath, R. Powell, R. Suarez, W. Wells, K. White,
 **SIGHPC Treasurer**, 2019 to Present <br>
 Member of the executive committee for the Special Interest Group on High Performance Computing (SIGHPC) as the Treasurer. Responsibilities include managing the SIG’s budget, developing pipelines for funding new programs, and evaluating operating costs.
 
-**SIGHPC Membership Coordinator**, 2017 to Present <br>
+**SIGHPC Membership Coordinator**, 2017 to 2021 <br>
 Member of the executive committee for the Special Interest Group on High Performance Computing (SIGHPC) as the Membership Coordinator. Responsibilities include monitoring and promoting membership in the special interest group and managing the yearly booth at the Supercomputing Conference.
 
 **SC Steering Committee**, 2020 to Present <br>
 Member of the SC steering committee which oversees the annual conference on High Performance Computing, Networking, Storage, and Analysis. 
 
 **The Supercomputing Conference**, 2014 to Present <br>
+2023: Executive Director. <br>
+2022: Housing Chair. <br>
 2021: Security Chair. <br>
 2021: Technical Program Research Posters Committee. <br>
 2020: Students@SC Chair on the Executive Committee. <br>
@@ -204,15 +206,27 @@ Member of the SC steering committee which oversees the annual conference on High
 2012: Wireless SCinet Student Volunteer.<br>
 2011: Student Volunteer.
 
-**Winter Simulation Conference**, 2017 to Present <br>
+**Winter Simulation Conference**, 2017 to 2021 <br>
+2021; Networking Chair. <br>
 2020: Business Chair. <br>
 2017: Publicity Chair.
 
-**SIAM Computational Science and Engineering Conference** 2015 to Present <br>
+**SIAM Computational Science and Engineering Conference**, 2015 to Present <br>
 2021: Committee member for the Broader Engagement program. <br>
 2019: Committee member for the Broader Engagement program. <br>
 2017: Committee member for the Broader Engagement program.<br>
 2015: Committee member for the Broader Engagement program.
+
+**International Conference on Parallel Processing (ICPP)**, 2018 <br>
+Vice Proceedings Chair
+
+# Awards
+Modern-Day Technology Leader, BEYA STEM Global Competitiveness Conference (2022) <br>
+WinterSim Board Award for Outstanding Leadership and Service (2021) <br>
+Open Science Data Cloud Fellowship, University of Amsterdam (2016) <br>
+Open Science Data Cloud Fellowship, University of Edinburgh (2012) <br>
+Maryland Department of the Environment Secretary's Award for Intern Innovation (2009) <br>
+Richard Stockton College Provost Scholarship (2008-2011)
 
 # Other Activities
 Stockton College Field Hockey, NFHCA National Academic Squad (08-09), MITRE Softball Treasurer, Adult Co-Ed Soccer Enthusiast, City Impact Tutor, Mentor for the MITRE Intern Program and Young Women in Engineering Day.
