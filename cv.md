@@ -206,6 +206,9 @@ Member of the SC steering committee which oversees the annual conference on High
 2012: Wireless SCinet Student Volunteer.<br>
 2011: Student Volunteer.
 
+**SIAM Industry Committee**, 2022 to Present <br>
+Member of the SIAM Industry Committee which advises the SIAM Vice President for Industry on issues related to SIAM products, services, programs and membership of relevance to SIAM's industrial members. 
+
 **Winter Simulation Conference**, 2017 to 2021 <br>
 2021; Networking Chair. <br>
 2020: Business Chair. <br>
