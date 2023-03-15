@@ -7,9 +7,9 @@ img: /img/OSDC.jpg
 
 At SC12 in Salt Lake City, Utah, a paper was published by on the Open Science Data Cloud: The Design of a Community Science Cloud
 
-The paper can be found in the <a href="http://www.computer.org/csdl/proceedings/sccompanion/2012/4956/00/4956b051-abs.html" target="blank"> IEEE Proceedings Repository</a>.
+The paper can be found in the <a href="https://www.computer.org/csdl/proceedings/sccompanion/2012/4956/00/4956b051-abs.html" target="blank"> IEEE Proceedings Repository</a>.
 
-The full paper is also available on <a href="http://papers.rgrossman.com/proc-127.pdf" target="blank">Dr. Robert Grossman’s website</a>.
+The full paper is also available on <a href="https://papers.rgrossman.com/proc-127.pdf" target="blank">Dr. Robert Grossman’s website</a>.
 
 **Abstract:**
 

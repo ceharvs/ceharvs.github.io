@@ -9,7 +9,7 @@ Applications are now open for Students@SC Programs!  This is a great opportunity
 
 Applications are open for Student Volunteers, the Student Cluster Competition, and the Doctoral Showcase.  Soon, you’ll also be able to apply for HPC for Undergraduates and the ACM Student Research Competition.
 
-For more information on Students@SC: http://sc16.supercomputing.org/studentssc/
+For more information on Students@SC: https://sc16.supercomputing.org/studentssc/
 
 <div class="img_row">
 	<img class="col three" src="/img/jjr4379.jpg">

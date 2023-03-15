@@ -7,7 +7,7 @@ description: At Supercomputing 2010 in New Orleans, the Richard Stockton College
 
 At Supercomputing 2010 in New Orleans, the Richard Stockton College of New Jersey Computational Science Program received the Undergraduate Computational Engineering and Science Award.
 
-For more information on this award visit the [Supercomputing Online](http://www.supercomputingonline.com/news-2/this-years-stories/3209-stockton-college-earns-top-honors-at-supercomputing) article or the article in the [Atlantic City Press](http://www.pressofatlanticcity.com/news/press/atlantic/article_528b3f8e-f44c-11df-8138-001cc4c002e0.html).
+For more information on this award visit the [Supercomputing Online](https://www.supercomputingonline.com/news-2/this-years-stories/3209-stockton-college-earns-top-honors-at-supercomputing) article or the article in the [Atlantic City Press](https://www.pressofatlanticcity.com/news/press/atlantic/article_528b3f8e-f44c-11df-8138-001cc4c002e0.html).
 
 <div class="img_row">
 	<img class="col three" src="/img/sc10a1.jpg">

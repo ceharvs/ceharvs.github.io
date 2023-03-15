@@ -5,7 +5,7 @@ date:   2014-05-08 16:40:16
 description: Math & Science Grad Returns to AHS to Give Girls a Map for Success
 ---
 
-[Math & Science Grad Returns to AHS to Give Girls a Map for Success](http://articles.baltimoresun.com/2014-05-07/news/ph-ag-ppt-academy-0507-20140507_1_math-academy-stem-internship)
+[Math & Science Grad Returns to AHS to Give Girls a Map for Success](https://articles.baltimoresun.com/2014-05-07/news/ph-ag-ppt-academy-0507-20140507_1_math-academy-stem-internship)
 
 <div class="img_row">
 	<img class="col three" src="/img/ywise.jpg">

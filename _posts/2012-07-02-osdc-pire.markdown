@@ -5,7 +5,7 @@ date:   2012-07-02 16:40:16
 description: Galloway Patch Article on OSDC PIRE Internship
 ---
 
-[Stockton Graduate Student to Participate in Data Research at Home of Leading Supercomputers](http://galloway.patch.com/articles/stockton-college-student-to-participate-in-data-research-at-home-of-leading-supercomputers).
+[Stockton Graduate Student to Participate in Data Research at Home of Leading Supercomputers](https://galloway.patch.com/articles/stockton-college-student-to-participate-in-data-research-at-home-of-leading-supercomputers).
 
 <div class="img_row">
 	<img class="col three" src="/img/osdc_pire.jpg">

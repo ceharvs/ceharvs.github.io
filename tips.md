@@ -42,7 +42,7 @@ A skills section
 ## GitHub Pages
 
 Here is an excellent tutorial on building your GitHub pages website!
-http://jmcglone.com/guides/github-pages/
+https://jmcglone.com/guides/github-pages/
 
 
 

@@ -24,7 +24,7 @@ Check out the great programs highlighted below.  Before you apply, review my [ti
 
 # Sustainable Horizons Institute Programs
 
-The **<a href="http://shinstitute.org" target="blank">Sustainable Horizons Institute</a>** provides a variety of programs for students, faculty, and professionals in computing.
+The **<a href="https://shinstitute.org" target="blank">Sustainable Horizons Institute</a>** provides a variety of programs for students, faculty, and professionals in computing.
 
 # SIGHPC Student Travel Grants
 

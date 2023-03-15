@@ -6,5 +6,5 @@ description: 2008 NFHCA Division III National Academic Squad
 ---
 
 
-[2008 NFHCA Division III National Academic Squad](http://www.eteamz.com/nfhca/files/2008DIIINatlAcadSquadRelease.pdf)
+[2008 NFHCA Division III National Academic Squad](https://www.eteamz.com/nfhca/files/2008DIIINatlAcadSquadRelease.pdf)
 
