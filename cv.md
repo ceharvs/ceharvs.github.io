@@ -16,9 +16,9 @@ permalink: /cv/
 **Richard Stockton College of New Jersey - Galloway, NJ** Aug. 2011 <br>
 *Bachelor of Science in Computational Science with a Minor in Mathematics*
 
-# Development Skills
+# Skills
 
-C/C++, Java, Python, Moab/TORQUE, MATLAB, MPI, R, NetLogo, Slurm, MongoDB, JIRA, Git
+High Performance Computing, Ansible, C/C++, Python, MATLAB, MPI, R, NetLogo, Slurm, SQL, MongoDB, JIRA, Git
 
 # Experience
 
@@ -27,11 +27,15 @@ The MITRE Corporation, McLean, VA
 
 *High Performance Computing Architect*
 * Coordinate and drive strategic planning for the future of High Performance Computing (HPC) at MITRE including system purchases and federating research computing environments across MITRE.
-* Develop training for HPC users across the corporation through online modules, group mentoring, and advanced training sessions. 
-* Manage the teams running the production HPC systems including a yearly summer cohort of interns and several full-time staff members.
+* Support MITRE's sponsors through HPC strategy and roadmap guidance for the procurement, deployment, and ongoing operations of advanced computing systems to support mission and research workloads.
+* Develop training for HPC users across the corporation through online modules, group mentoring, advanced training sessions, office hours, and a monthly community of practice session.
+* Manage the team running the production HPC systems including a yearly summer cohort of interns and full-time staff.
+
+*Organ Transplantation Affinity Group*
+* Serve as a data and process subject matter expert for the Organ Transplantation Affinity Group (OTAG) led by the Centers for Medicare & Medicaid Services (CMS) and the Health Resources and Services Administration (HRSA).
+* Develop data workflows and diagrams on patient journeys, standard operating procedures for reporting, and interagency data sharing agreements.
 
 *SIMEX Data Collection Lead*
-* Support the simulation experiment (SIMEX) program data collection and analysis efforts for multiple sponsors including the Department of Homeland Security, the Office of the Secretary of Defense, and the North American Aerospace Defense Command in classified and unclassified experiments covering topics ranging from active shooter scenarios to counter-small Unmanned Aircraft Systems (C-sUAS).
 * Provide leadership across the SIMEX program in best practices for data collection, analysis, experiment design, and project management.
 * Lead the data collection and analysis teams for experiments including SIMEX 21-3 and provide support to additional experiments to ensure consistency and quality across the SIMEX program. 
 
@@ -180,16 +184,22 @@ R. L. Grossman, M. Greenway, A. Heath, R. Powell, R. Suarez, W. Wells, K. White,
 **C. Harvey**, Z. Firth, D. Moore, J. Soehlke, I. Vayndiner, S. Wijesinghe, T. Suder, and T. Harvey, “June 2015 Federal Big Data Summit Report,” published following the June 2015 Federal Big Data Summit, Washington, DC. 2015.
 
 # Volunteer Activities & Honors
+**SIGHPC Chair**, 2022 to Present <br>
+Serve as the elected Chair of the Association of Computing Machinery (ACM) Special Interest Group on High Performance Computing (SIGHPC). I lead the executive committee in overseeing a multi-million dollar budget and various activities for the professional society.
+
 **SIGHPC Treasurer**, 2019 to Present <br>
 Member of the executive committee for the Special Interest Group on High Performance Computing (SIGHPC) as the Treasurer. Responsibilities include managing the SIG’s budget, developing pipelines for funding new programs, and evaluating operating costs.
 
 **SIGHPC Membership Coordinator**, 2017 to 2021 <br>
 Member of the executive committee for the Special Interest Group on High Performance Computing (SIGHPC) as the Membership Coordinator. Responsibilities include monitoring and promoting membership in the special interest group and managing the yearly booth at the Supercomputing Conference.
 
-**SC Steering Committee**, 2020 to Present <br>
+**SC Steering Committee**, 2020 to 2023 <br>
 Member of the SC steering committee which oversees the annual conference on High Performance Computing, Networking, Storage, and Analysis. 
 
 **The Supercomputing Conference**, 2014 to Present <br>
+2026: Plenary Production Chair. <br>
+2025: Exhibits Chair. <br>
+2024: Infrastructure Chair. <br>
 2023: Executive Director. <br>
 2022: Housing Chair. <br>
 2021: Security Chair. <br>
@@ -209,12 +219,13 @@ Member of the SC steering committee which oversees the annual conference on High
 **SIAM Industry Committee**, 2022 to Present <br>
 Member of the SIAM Industry Committee which advises the SIAM Vice President for Industry on issues related to SIAM products, services, programs and membership of relevance to SIAM's industrial members. 
 
-**Winter Simulation Conference**, 2017 to 2021 <br>
-2021; Networking Chair. <br>
+**Winter Simulation Conference**, 2017 to Present <br>
+2027: General Chair. <br>
+2021: Networking Chair. <br>
 2020: Business Chair. <br>
 2017: Publicity Chair.
 
-**SIAM Computational Science and Engineering Conference**, 2015 to Present <br>
+**SIAM Computational Science and Engineering Conference**, 2015 to 2021 <br>
 2021: Committee member for the Broader Engagement program. <br>
 2019: Committee member for the Broader Engagement program. <br>
 2017: Committee member for the Broader Engagement program.<br>
@@ -232,7 +243,7 @@ Maryland Department of the Environment Secretary's Award for Intern Innovation (
 Richard Stockton College Provost Scholarship (2008-2011)
 
 # Other Activities
-Stockton College Field Hockey, NFHCA National Academic Squad (08-09), MITRE Softball Treasurer, Adult Co-Ed Soccer Enthusiast, City Impact Tutor, Mentor for the MITRE Intern Program and Young Women in Engineering Day.
+HPC Leadership Institute Co-Tutor, Special Olympics Volunteer and Unified Partner, Stockton College Field Hockey, NFHCA National Academic Squad (08-09), MITRE Softball Treasurer, Adult Co-Ed Soccer Enthusiast, City Impact Tutor, Mentor for the MITRE Intern Program and Young Women in Engineering Day.
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3941-3895" href="https://orcid.org/0000-0002-3941-3895" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3941-3895</a></div>
 
