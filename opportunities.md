@@ -11,7 +11,7 @@ Check out the great programs highlighted below.  Before you apply, review my [ti
 
 # SC Conference Series
 
-**<a href="https://sc21.supercomputing.org/program/studentssc/" target="blank">Student programs at SC</a>** are open to undergraduate and graduate students interested in High Performance Computing (HPC). Many programs include travel grants and mentoring opportunities:
+**<a href="https://sc24.supercomputing.org/students/" target="blank">Student programs at SC</a>** are open to undergraduate and graduate students interested in High Performance Computing (HPC). Many programs include travel grants and mentoring opportunities:
 * Student Volunteers
 * Student Cluster Competition
 * Computing for Change
