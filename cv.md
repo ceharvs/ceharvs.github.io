@@ -4,18 +4,6 @@ title: cv
 permalink: /cv/
 ---
 
-# Education
-
-**George Mason University - Fairfax, VA,** Dec. 2019 <br>
-*Doctor of Philosophy, Computational Sciences and Informatics* 
-[Dissertation: Modeling, Simulation, and Analysis of the Organ Transplant System](https://search.proquest.com/openview/14175fa4f9aa14647988e54c7b0c5f72/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)
-
-**Richard Stockton College of New Jersey - Galloway, NJ** May 2013 <br>
-*Masters of Science in Computational Science*
-
-**Richard Stockton College of New Jersey - Galloway, NJ** Aug. 2011 <br>
-*Bachelor of Science in Computational Science with a Minor in Mathematics*
-
 # Skills
 
 High Performance Computing, Ansible, C/C++, Python, MATLAB, MPI, R, NetLogo, Slurm, SQL, MongoDB, JIRA, Git
@@ -130,6 +118,18 @@ Maryland Department of the Environment, Baltimore, MD
 Army Research Lab, Aberdeen Proving Ground, MD
 * Participated in a capstone research project in accordance with the Army Research Laboratory
 * Completed a computational analysis of the effects of bin width on the estimated dispersion of the M1028 Canister Round, for the Weapons and Materials Research Directorate.
+
+# Education
+
+**George Mason University - Fairfax, VA,** Dec. 2019 <br>
+*Doctor of Philosophy, Computational Sciences and Informatics* 
+[Dissertation: Modeling, Simulation, and Analysis of the Organ Transplant System](https://search.proquest.com/openview/14175fa4f9aa14647988e54c7b0c5f72/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)
+
+**Richard Stockton College of New Jersey - Galloway, NJ** May 2013 <br>
+*Masters of Science in Computational Science*
+
+**Richard Stockton College of New Jersey - Galloway, NJ** Aug. 2011 <br>
+*Bachelor of Science in Computational Science with a Minor in Mathematics*
 
 # Publications
 
