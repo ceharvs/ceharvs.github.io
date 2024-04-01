@@ -15,9 +15,6 @@ My volunteer role this year was the SC22 housing chair which was a different per
 This was my first conference as SIGHPC Chair - I'll post another blog about that with updates on that experience soon!
 
 <div class="img_row">
-	<img class="col three" src="/img/SC22-5k-6.jpg">
-</div>
-
-<div class="img_row">
-	<img class="col three" src="/img/SC22-groupphotos-19.jpg">
+	<img class="col two" src="/img/SC22-5k-6.jpg">
+    <img class="col one" src="/img/SC22-groupphotos-19.jpg">
 </div>

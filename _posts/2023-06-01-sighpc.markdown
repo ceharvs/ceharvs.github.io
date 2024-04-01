@@ -1,0 +1,33 @@
+---
+layout: post
+title:  A Year as SIGHPC Chair
+date:   2023-06-01 16:00:00
+description: Reflections after a year as Chair of ACM SIGHPC. 
+
+---
+
+This summer marks the end of my first full year as SIGHPC Chair.  SIGHPC is ACM's Special Interest Group on High Performance Computing. [SIGHPC](https://www.sighpc.org/), has the following mission:
+
+SIGHPC's mission is to promote the advancement of the field of High Performance Computing by:
+* disseminating research and experience by those using computing resources to tackle the most challenging scientific and technical problems of the day;
+* promoting the mentoring and education of the next generation of HPC professionals; and
+* serving as a source of information about the field to other parts of ACM and the larger scientific community.
+
+I first became involved in SIGHPC in 2017 as the Membership Coordinator, was elected Treasurer in 2019 and then Chair of the organization in 2022!  ACM/SIGHPC is one of the sponsors of the annual [SC Conference](https://supercomputing.org/) as well as a partial sponsor for [PASC](https://www.pasc-conference.org/), [PEARC](https://pearc.acm.org/), and [PPoPP](https://conf.researchr.org/home/ppopp-2024). SIGHPC also sponsors a [fellowship program](https://www.sighpc.org/opportunities/fellowships), provides awards ([dissertation](https://www.sighpc.org/opportunities/dissertation-award)and [emerging woman leader](https://www.sighpc.org/opportunities/emerging-woman-leader-in-technical-computing-award)), and [travel grants](https://www.sighpc.org/opportunities/travel-grants) to attend conferences. It has been facinating getting to know the organization and to learn more about the value and perspective of professional societies in the realm of HPC.  
+
+For me the absolute highlight of this role has been meeting our award winners, travel grant, winners, HPCI participants, and fellows at the annual SC Conference.  Below are a few photos highlighting meetings and engagements with our special SIGHPC guests at SC22.
+
+<div class="img_row">
+	<img class="col two" src="/img/SC22-awards-67.jpg">
+    <img class="col one" src="/img/SC22-groupphotos-23.jpg">
+</div>
+
+<div class="img_row">
+	<img class="col one" src="/img/SC22-awards-121.jpg">
+    <img class="col two" src="/img/SC22-groupphotos-26.jpg">
+</div>
+
+<div class="img_row">
+	<img class="col two" src="/img/SC22-awards-91.jpg">
+    <img class="col one" src="/img/SC22-sessions-372.jpg">
+</div>
