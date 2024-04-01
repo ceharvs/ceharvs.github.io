@@ -1,0 +1,25 @@
+---
+layout: post
+title:  SC21 Reflections
+date:   2021-11-30 16:40:16
+description: Reflections on the SC21 Conference
+
+---
+
+At SC21, the conference returned to an in-person expereince in St. Louis, Missouri.  As the Security Chair in the Infrastructure Committee, I worked with a contractor to plan the vaccine verification process for the conference and design a plan for access at the convention center and for offsite events.  
+
+Attending SC in 2021 was a different experience from the years before with a smaller in-person presence, but I appreciated the time to connect with everyone in-person while still enjoying the technical sessions and supporting the committee.  
+
+This was also the first year for the in-person [HPC Immersion program, funded by SIGHPC](https://www.sighpc.org/opportunities/hpc-immersion). The HPC Immersion program gives undergraduate students early in their academic career an introduction to HPC and a better understanding of HPC career options in computer science, computer engineering, and computational science.  Students are guided through the SC Technical Program and meaningfully engage in activities including technical talks and workshops. It was fantastic to see this launch and so many students have a first exposure to HPC!
+
+<div class="img_row">
+	<img class="col three" src="/img/PXL_20211110_134705423.jpg">
+</div>
+
+<div class="img_row">
+	<img class="col three" src="/img/SC21-nov15-teams-4_websize.jpg">
+</div>
+
+<div class="img_row">
+	<img class="col three" src="/img/SC21-nov12-chairsdinner-56.jpg">
+</div>
