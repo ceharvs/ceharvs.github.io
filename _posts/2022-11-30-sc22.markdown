@@ -1,0 +1,23 @@
+---
+layout: post
+title:  SC22 Reflections
+date:   2022-11-30 16:40:16
+description: Back to Dallas for SC22 - my experience as housing chair and the conference returning to "normal".
+
+---
+
+SC22 was my 13th SC Conference!  
+
+At this iteration of the conference, things felt back to "normal" or like the years before the COVID-19 pandemic. Dallas was a familiar city and attendance at the confernce was booming.  
+
+My volunteer role this year was the SC22 housing chair which was a different perspective than past volunteer roles.  With the housing role, much of the planning and execution begins a year before the confernce. Serving as housing chair was a unique experience, I worked closely with a contractor that provided the housing website and coordination as well as the exhibits and local arrangements teams.  We toured dozens of hotels in preparation for the conference!  I enjoyed being part of the local arrangemnts team and working with many new people across the HPC community.  
+
+This was my first conference as SIGHPC Chair - I'll post another blog about that with updates on that experience soon!
+
+<div class="img_row">
+	<img class="col three" src="/img/SC22-5k-6.jpg">
+</div>
+
+<div class="img_row">
+	<img class="col three" src="/img/SC22-groupphotos-19.jpg">
+</div>
