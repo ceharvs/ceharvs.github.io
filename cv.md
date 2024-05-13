@@ -4,99 +4,53 @@ title: cv
 permalink: /cv/
 ---
 
+**Strategic** and **driven** High Performance Computing (**HPC**) principal engineer with eight years of **service management** experience in **government research computing** and extensive leadership in the broader HPC community. Exceptional at engaging and organizing **diverse** and **inclusive** teams working towards common technical and operational goals ranging from system procurement to implementing **security compliance standards** for traditional HPC and Artificial Intelligence (**AI**) environments.
+
 # Skills
 
-High Performance Computing, Ansible, C/C++, Python, MATLAB, MPI, R, NetLogo, Slurm, SQL, MongoDB, JIRA, Git
+* **Leadership**: Procurement, Strategic Planning, Documentation, Team Engagement, Public Speaking
+* **Technical**: *Advanced* in Slurm, Python (Pandas, Seaborn, Matplotlib, NumPy), R, and Ansible. *Intermediate* in C/C++, MATLAB, MPI, SQL, MongoDB, SQL, Git, JIRA.
 
 # Experience
 
 **Principal High Performance and Analytic Computing Architect**, Jan. 2021 - Present <br>
 The MITRE Corporation, McLean, VA
 
-*High Performance Computing Architect*
-* Coordinate and drive strategic planning for the future of High Performance Computing (HPC) at MITRE including system purchases and federating research computing environments across MITRE.
-* Support MITRE's sponsors through HPC strategy and roadmap guidance for the procurement, deployment, and ongoing operations of advanced computing systems to support mission and research workloads.
-* Develop training for HPC users across the corporation through online modules, group mentoring, advanced training sessions, office hours, and a monthly community of practice session.
-* Manage the team running the production HPC systems including a yearly summer cohort of interns and full-time staff.
-
-*Organ Transplantation Affinity Group*
-* Serve as a data and process subject matter expert for the Organ Transplantation Affinity Group (OTAG) led by the Centers for Medicare & Medicaid Services (CMS) and the Health Resources and Services Administration (HRSA).
-* Develop data workflows and diagrams on patient journeys, standard operating procedures for reporting, and interagency data sharing agreements.
-
-*SIMEX Data Collection Lead*
-* Provide leadership across the SIMEX program in best practices for data collection, analysis, experiment design, and project management.
-* Lead the data collection and analysis teams for experiments including SIMEX 21-3 and provide support to additional experiments to ensure consistency and quality across the SIMEX program. 
+* Coordinate and drive strategic planning for the future of High Performance Computing (HPC) at MITRE across system procurement ($20M+), supporting diverse use cases including traditional HPC and Artificial Intelligence (AI) workloads, and federating research computing environments across MITRE.
+* Directly support MITRE’s sponsors through HPC strategy and roadmap guidance for the procurement, deployment, and ongoing operations of advanced computing systems for mission and research workloads.
+* Develop training and community engagement for HPC users across the corporation through online modules, group mentoring, advanced training sessions, office hours, and a monthly community of practice session.
+* Lead a collaborative and goal-driven team of 12+ employees running production HPC systems including researcher-, data-, software-, and systems-facing operations to support research across the company.
+* Design and implement and accounting and reporting systems to track the value of the HPC service including utilization metrics from Slurm, employee data from the corporate Denodo endpoints, and robust user feedback surveys.
+* Serve as a data and process subject matter expert for the Organ Transplantation Affinity Group (OTAG) led by the Centers for Medicare and Medicaid Services (CMS) and the Health Resources and Services Administration (HRSA). Develop data workflows and diagrams on patient journeys, standard operating procedures for reporting, and interagency data sharing agreements.
+* Provide leadership across the simulation experiment (SIMEX) program in best practices for data collection, analysis, experiment design, and project management to ensure consistency and quality across the program. Led the data collection and analysis team for multiple experiments and led the production of data-driven deliverables.
 
 **Lead High Performance and Analytic Computing Engineer**, Jun. 2016 - Jan. 2021 <br>
 The MITRE Corporation, McLean, VA
 
-*High Performance Computing Service Manager*
-* Served as the Service Manager for MITRE's HPC technologies within Corporate Operations. 
-* Led purchasing efforts for HPC within the corporation.  
-* Provided cluster maintenance including performing installations and updates to the systems as well as monitoring and maintaining the health and status of the clusters and resource managers.
-* Trained all users of the HPC systems to use the systems knowledgeably and responsibly. Provided knowledge and expertise to users to help parallelize code and run applications and software on high performance computing systems.
-* Managed the team running the production HPC systems including a yearly summer cohort of interns and several full-time staff members.
-
-*SIMEX Data Collection Lead*
-* Coordinated and managed data collection and analysis for the SIMEX program including SIMEX 17-3, SIMEX 18-1, SIMEX 18-3, SIMEX 19-2, SIMEX 20-5, and SIMEX 20-6. These experiments support various government sponsors including the Department of Homeland Security, the Office of the Secretary of Defense, and the North American Aerospace Defense Command in classified and unclassified experiments covering topics ranging from active shooter scenarios to counter-small Unmanned Aircraft Systems (C-sUAS).
-* Architected the entire experiment process including designing the experiment, collaborating with the sponsors on research questions, collecting data for the experiment with live data feeds, executing the analysis, and authoring the final report.
-* Led teams of analysts and developers to architect and perform the data collection and cleaning from live data feeds including Unity Logs and Distributed Interactive Simulation (DIS) data as well as the subsequent statistical and qualitative analysis of the data with R and Python.
-* Provided support for additional experiments run by the program to ensure consistency and quality across all implementations, specifically regarding experiment design, analysis, and data management.
-
-*MITRE Organizer of the Federal Big Data Summit*
-* Created and managed teams of leads for the MITRE-ATARC Big Data Summit Collaboration Sessions. Teams consisted of four to five senior leaders from government, industry, and MITRE.
-* Co-authored and edited the Summit’s white paper for the June 2015 and the December 2015-2017 Federal Big Data Summit, along with the leads from MITRE.
+* Led a team of systems-focused staff and interns in day-to-day operations, researcher support, security compliance, and system procurements.
+* Developed training for HPC users across the corporation to include guided sessions and interactive modules on topics ranging from basic to advanced HPC access and job submission skills.
+* Provided systems-facing support with cluster administration and leadership on installing and configuring the Slurm scheduler.
+* Developed an open-source command line tool, workbench (available on GitHub), to allow simple interactive submission to Slurm focuesed on AI and GPU workloads to meet growing user demand and needs for straightforward access to the shell, Jupyter Labs, VS Code, and containers.
+* Supported the SIMEX program data collection and analysis efforts for multiple sponsors including the Department of Homeland Security, the Office of the Secretary of Defense, and the North American Aerospace Defense Command in classified and unclassified experiments covering topics ranging from active shooter scenarios to counter-small Unmanned Aircraft Systems (C-sUAS).
+* Recruited and managed teams of senior leaders from government, industry, and MITRE for the MITRE-ATARC Big Data Summit Collaboration Sessions. Co-authored and edited the Summit’s white paper for the June 2015 and the December 2015-2017 Federal Big Data Summit, along with the leads from MITRE.
 
 **Senior Simulation and Modeling Engineer**, May 2015 - Jun. 2016 <br>
 The MITRE Corporation, McLean, VA
 
-*Analysis of the Organ Transplant System*
-* Served as Principal investigator of an Early Career Research Program (ECRP) project sponsored by the MITRE Innovation Program to perform data analysis of the organ transplant system.
-* Lead small teams on performing cost analysis and outcomes research for the Organ Transplant system in the United States in coordination with data from the United Network for Organ Sharing (UNOS).
-* Developed a toolkit for easily viewing and performing analysis on the data on the transplant system, obtained from UNOS. This toolkit is intended for public release.
-
-
-*The MITRE Elastic Goal-Directed Simulation Framework (MEG)*
-* Collaborated on MITRE’s High Performance Computing infrastructures and assisted in coordinating the updates and release of the latest version of the MITRE Elastic Goal-Directed Simulation Framework (MEG), MEG 3.0.
-* Organized the transition process for models to run on the MEG infrastructure.
-* Developed models and design of experiments for MEG 3.0.
-
-*Office of Financial Research - Agent Based Modeling*
-* Led the technical development of the detailed architecture to be transitioned to the Office of Financial Research.
-* Coordinated and organized the development of the companion visualization system, Gyre, with the visualization team on the project.
-* Continued to manage the entire pipeline from serial model updates to visualization of large-scale parallel executions, as well as the large-scale visualization process now in place.
-* Responsible for organizing and running the live demonstrations given to sponsors for the work on this project.
+* Led small teams on performing cost analysis and outcomes research for the organ transplant system in the United States in coordination with data from the United Network for Organ Sharing (UNOS).
+* Developed a publicly released toolkit, transplant2mongo (available on GitHub), for easily viewing and performing analysis on the UNOS the organ transplant system data.
+* Collaborated on MITRE’s HPC infrastructures and assisted in coordinating the updates and release of the latest version of an internal simulation framework. Organized the transition process for models to run on the MEG infrastructure.
+* Managed the entire pipeline from serial model updates to visualization of large-scale parallel executions, as well as the large-scale visualization process now in place for Agent-Based Modeling work with the Office of Financial Research.
 
 
 **Modeling and Simulation Staff,** Jan. 2013 - May 2015 <br>
 The MITRE Corporation, McLean, VA
 * Worked with MITRE's senior leadership to develop the corporation's Student Loan Repayment program.
-
-*Analysis of the Organ Transplant System*
-* Principal investigator of an Early Career Research Program (ECRP) project sponsored by the MITRE Innovation Program to perform data analysis of the organ transplant system.
-* Manage project funding and acquisition of resources including computing needs and data sets. This involves collaboration with organizations across MITRE and with the United Network for Organ Sharing (UNOS).
-* Perform big data analysis of the organ transplant system in the United States to draw valuable information from the data which can be used to impact policy.
-
-*Massive-Scale Agent-Based Modeling Toolkit (MABM)*
-* Designed and developed a Python toolkit for Massive-scale Agent-based Models to support large and complex simulations. This effort resulted in a python module using MPI for distributed simulations.
-* Developed the code base for agent synchronization across multiple processors. Novel techniques for synchronization in the field of Agent-Based Modeling were implemented which led to an increase in efficiency for cross-process communication.
-
-*The MITRE Elastic Goal-Directed Simulation Framework (MEG)*
-* Collaborate on MITRE’s High Performance Computing infrastructures. Work to develop the MITRE Elastic Goal-Directed Simulation Framework (MEG-SF) through the development of Design of Experiment methods.
-* Developed the Latin Hypercube and Controlled Sequential Bifurcation Designers for the MEG Architecture aligned with the Agile Quantitative System Engineering for Complex Scenarios MIP project.
-* Designed and managed simulations for benchmarking on Amazon Web Services.
-
-*Office of Financial Research - Agent Based Modeling*
-*  Responsible for generating scripts and managing simulation runs for various sponsor projects. Manage data and output from simulations using post-processing scripting methods to consolidate data for large-scale visualizations.
-* Managed the entire pipeline from serial model updates to visualization of large- scale parallel executions. Responsible for compiling and running demonstrations for the project sponsor.
-
-*DHS - Operational Context Analysis*
-* Create Operational Context Charts using aspects of Business Process Modeling Notation (BPMN) to support HSARPA’s R&D Strategy plans and Industry Webinars.
-*  Supported additional projects in HS SEDI by developing Operational Context Charts for GPS Activity.
-
-*MIP Process Management*
-* Manage and integrate an internal database to monitor MITRE’s internal research program. Complete reports and analysis for the company on the research program.
-* Developed reports for presentation to the Engineering council on the MIP Program including the MITRE Millennials Report and the Annual Strategy Market Report.
+* Principal investigator of an Early Career Research Program (ECRP) project sponsored by the MITRE Innovation Program to perform data analysis of the organ transplant system. Managed project funding and acquisition of resources including computing needs and data sets by collaborating with organizations across MITRE and with the United Network for Organ Sharing (UNOS).
+* Collaborated on MITRE’s HPC environments to develop the MITRE Elastic Goal-Directed Simulation Framework (MEG-SF) through the development of the Latin Hypercube and Controlled Sequential Bifurcation designers.
+* Designed and developed a Python toolkit, MABM (available on GitHub), for Massive-scale Agent-based Models to support large and complex simulations. This effort resulted in a python module using MPI for distributed simulations.
+* Managed serial to parallel runs, data, and output from simulations for the Office of Financial Research using post-processing scripting methods to consolidate data for large-scale visualizations.
+* Managed and integrated an internal database to monitor MITRE’s internal research program. Complete reports and analysis for the company on the research program.
 
 
 **Fellow** May 2012 - Aug. 2012 <br>
