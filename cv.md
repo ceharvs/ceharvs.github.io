@@ -17,7 +17,7 @@ permalink: /cv/
 The MITRE Corporation, McLean, VA
 
 * Coordinate and drive **strategic planning** for the future of High Performance Computing (**HPC**) at MITRE across **system procurement ($20M+)**, supporting **diverse use case** including traditional HPC and Artificial Intelligence (**AI**) workloads, and federating research computing environments across MITRE.
-* Directly support MITRE’s sponsors through HPC **strategy** and **roadmap guidance** for the **procurement**, **deployment**, and **ongoing operations** of advanced computing systems for mission and research workloads.
+* Directly support MITRE’s sponsors through HPC **strategy** and **roadmap guidance** for the **procurement**, **deployment**, and **ongoing operations** of advanced computing systems for mission and research workloads (e.g. [NSF TIP](https://nsf-gov-resources.nsf.gov/files/TIPRoadmap_WEB.pdf)).
 * Develop **training** and **ommunity engagement** for HPC users across the corporation through online modules, group mentoring, advanced training sessions, office hours, and a monthly community of practice session.
 * **Lead** a **collaborative** and **goal-driven** team of 12+ employees running production HPC systems including researcher-, data-, software-, and systems-facing operations to support research across the company.
 * Design and implement and **accounting** and **reporting** systems to track the **value** of the HPC service including **utilization metrics** from Slurm, employee data from the corporate Denodo endpoints, and robust **user feedback surveys**.
