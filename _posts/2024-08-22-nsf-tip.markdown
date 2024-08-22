@@ -2,7 +2,7 @@
 layout: post
 title:  NSF TIP Roadmap Invenstment
 date:   2024-08-22 16:00:00
-description: Reflections after a year as Chair of ACM SIGHPC. 
+description: Sharing the NSF TIP Roadmap.
 
 ---
 
