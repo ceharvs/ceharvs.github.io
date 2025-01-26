@@ -22,6 +22,8 @@ With my extensive volunteer experience with the SIGHPC community and professiona
 
 ### Blogs on my SIGHPC Experience
 
+<br>
+
 * **<a href="https://itsharveytime.com/2023/06/01/sighpc.html" target="blank">A Year as SIGHPC Chair (2022-2023)</a>**
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3941-3895" href="https://orcid.org/0000-0002-3941-3895" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3941-3895</a></div>
@@ -38,11 +40,11 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="https://orcid.org/0000-0002-3941-3895" target="_blank"><i class="fa-brands fa-fingerprint"></i></a>
-	<a href="https://github.com/ceharvs" target="_blank"><i class="fa-brands fa-github-square"></i></a>
-	<a href="https://www.linkedin.com/in/itsharveytime" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-	<a href="https://twitter.com/ItsHarveyTime" target="_blank"><i class="fa-brands fa-twitter-square"></i></a>
-	<a href="https://www.instagram.com/itsharveytime/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+	<a href="https://orcid.org/0000-0002-3941-3895" target="_blank"><i class="fa fa-fingerprint"></i></a>
+	<a href="https://github.com/ceharvs" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/itsharveytime" target="_blank"><i class="fa fa-linkedin"></i></a>
+	<a href="https://twitter.com/ItsHarveyTime" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="https://www.instagram.com/itsharveytime/" target="_blank"><i class="fa fa-instagram"></i></a>
 </span>
 
 <div class="col three caption">
