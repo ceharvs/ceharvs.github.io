@@ -12,8 +12,8 @@ permalink: /about/
 
 Thank you for taking the time to visit my online portfolio. Here you will find my resume, contact information, portfolio, and news items.
 
-Currently, I work for The MITRE Corporation as a Principal High Performance & Analytic Computing Architect where I manage the corporate High Performance Computing (HPC) service. In this role, I manage a team of systems administrators, application specialists, and interns to provide, maintain, and educate employees on the HPC clusters. I provide strategic and operational support to MITRE's sponsors in deploying and maintaining their own adanced computing environments.
-Additionally, I serve as a data subject matter expert for the Organ Transplantation Affinty Group (OTAG) led by the Centers for Medicare and Medicaid Services (CMS) and the Health Resources and Services Administration (HRSA).
+Currently, I work for NVIDIA as a Senior Artificial Intelligence (AI) and High Performance Computing (HPC) Clusters Lead where I manage the researcher-facing team for the company's fleet of Slurm HPC clusters.  Before coming to NVIDIA in 2024, I spent eleven years at the MITRE Corporation as a Principal High Performance & Analytic Computing Architect where I managed the corporate HPC service. I provided strategic and operational support to MITRE's sponsors in deploying and maintaining their own adanced computing environments.
+Additionally, I served as a data subject matter expert for the Organ Transplantation Affinty Group (OTAG) led by the Centers for Medicare and Medicaid Services (CMS) and the Health Resources and Services Administration (HRSA).
 
 I completed my Bachelor's and Master’s of Science in Computational Science at the Richard Stockton College of New Jersey in 2011 and 2013, respectively. In December 2019, I graduated from George Mason University with my PhD in Computational Science and Informatics.  My dissertation, titled "Modeling, Simulation, and Analysis of the US Organ Transplant System", is available on [ProQuest](https://search.proquest.com/openview/14175fa4f9aa14647988e54c7b0c5f72/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y).
 

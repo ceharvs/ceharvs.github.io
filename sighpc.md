@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2025 SIGHPC Election
+title: SIGHPC Election
 permalink: /sighpc/
 ---
 
@@ -10,17 +10,7 @@ permalink: /sighpc/
 
 # SIGHPC Chair 2025-2028
 
-## Candidate Statement
-
-
-
-
-
-
-
-
-
-**<a href="https://sc25.supercomputing.org/students/" target="blank">Student programs at SC</a>**
+### Candidate Statement
 
 It is both an honor and a privilege to be considered for a second term as your SIGHPC Chair. SIGHPC is a cornerstone of the HPC community, and I appreciate this incredible opportunity. 
  
