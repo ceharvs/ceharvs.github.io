@@ -4,7 +4,7 @@ title: cv
 permalink: /cv/
 ---
 
-**Strategic** and **driven** High Performance Computing (**HPC**) principal engineer with eight years of **service management** experience in **government research computing** and extensive leadership in the broader HPC community. Exceptional at engaging and organizing **diverse** and **inclusive** teams working towards common technical and operational goals ranging from system procurement to implementing **security compliance standards** for traditional HPC and Artificial Intelligence (**AI**) environments.
+**Strategic** and **driven** High Performance Computing (**HPC**) leader with eight years of **service management** experience in **government research computing** and extensive leadership in the broader HPC community. Exceptional at engaging and organizing **diverse** and **inclusive** teams working towards common technical and operational goals ranging from system procurement to implementing **security compliance standards** for traditional HPC and Artificial Intelligence (**AI**) environments.
 
 # Skills
 
@@ -13,16 +13,21 @@ permalink: /cv/
 
 # Experience
 
-**Principal High Performance and Analytic Computing Architect**, Jan. 2021 - Present <br>
+**Senior HPC and AI Clusters Lead**, Oct. 2024 - Present <br>
+NVIDIA, Santa Clara, CA
+
+* Lead the team of staff responsible for Machine Learning Operations and Cluster Leads for the Capability Systems group within Hardware Infrastructure. Our group is the primary interface between reserachers and NVIDIA's fleet of Slurm clusters. Responsibilities include hiring, team engagement, cross-organizational collaboration, training, documentation, and user engagement.
+
+**Principal High Performance and Analytic Computing Architect**, Jan. 2021 - Oct. 2024 <br>
 The MITRE Corporation, McLean, VA
 
-* Coordinate and drive **strategic planning** for the future of High Performance Computing (**HPC**) at MITRE across **system procurement ($20M+)**, supporting **diverse use case** including traditional HPC and Artificial Intelligence (**AI**) workloads, and federating research computing environments across MITRE.
-* Directly support MITRE’s sponsors through HPC **strategy** and **roadmap guidance** for the **procurement**, **deployment**, and **ongoing operations** of advanced computing systems for mission and research workloads.
-* Develop **training** and **ommunity engagement** for HPC users across the corporation through online modules, group mentoring, advanced training sessions, office hours, and a monthly community of practice session.
-* **Lead** a **collaborative** and **goal-driven** team of 12+ employees running production HPC systems including researcher-, data-, software-, and systems-facing operations to support research across the company.
-* Design and implement and **accounting** and **reporting** systems to track the **value** of the HPC service including **utilization metrics** from Slurm, employee data from the corporate Denodo endpoints, and robust **user feedback surveys**.
-* Serve as a **data and process subject matter expert** for the Organ Transplantation Affinity Group (OTAG) led by the Centers for Medicare and Medicaid Services (CMS) and the Health Resources and Services Administration (HRSA). Develop **data workflows** and diagrams on patient journeys, **standard operating procedures** for reporting, and interagency data sharing agreements.
-* Provide leadership across the simulation experiment (SIMEX) program in best practices for **data collection**, **analysis**, **experiment design**, and **project management** to ensure consistency and quality across the program. Led the data collection and analysis team for multiple experiments and led the production of **data-driven deliverables**.
+* Coordinated and drove **strategic planning** for the future of High Performance Computing (**HPC**) at MITRE across **system procurement ($20M+)**, supporting **diverse use case** including traditional HPC and Artificial Intelligence (**AI**) workloads, and federating research computing environments across MITRE.
+* Directly supported MITRE’s sponsors through HPC **strategy** and **roadmap guidance** for the **procurement**, **deployment**, and **ongoing operations** of advanced computing systems for mission and research workloads.
+* Developed **training** and **ommunity engagement** for HPC users across the corporation through online modules, group mentoring, advanced training sessions, office hours, and a monthly community of practice session.
+* **Led** a **collaborative** and **goal-driven** team of 12+ employees running production HPC systems including researcher-, data-, software-, and systems-facing operations to support research across the company.
+* Designed and implemented an **accounting** and **reporting** systems to track the **value** of the HPC service including **utilization metrics** from Slurm, employee data from the corporate Denodo endpoints, and robust **user feedback surveys**.
+* Served as a **data and process subject matter expert** for the Organ Transplantation Affinity Group (OTAG) led by the Centers for Medicare and Medicaid Services (CMS) and the Health Resources and Services Administration (HRSA). Develop **data workflows** and diagrams on patient journeys, **standard operating procedures** for reporting, and interagency data sharing agreements.
+* Provided leadership across the simulation experiment (SIMEX) program in best practices for **data collection**, **analysis**, **experiment design**, and **project management** to ensure consistency and quality across the program. Led the data collection and analysis team for multiple experiments and led the production of **data-driven deliverables**.
 
 **Lead High Performance and Analytic Computing Engineer**, Jun. 2016 - Jan. 2021 <br>
 The MITRE Corporation, McLean, VA

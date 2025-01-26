@@ -11,7 +11,7 @@ Check out the great programs highlighted below.  Before you apply, review my [ti
 
 # SC Conference Series
 
-**<a href="https://sc24.supercomputing.org/students/" target="blank">Student programs at SC</a>** are open to undergraduate and graduate students interested in High Performance Computing (HPC). Many programs include travel grants and mentoring opportunities:
+**<a href="https://sc25.supercomputing.org/students/" target="blank">Student programs at SC</a>** are open to undergraduate and graduate students interested in High Performance Computing (HPC). Many programs include travel grants and mentoring opportunities:
 * Student Volunteers
 * Student Cluster Competition
 * Computing for Change
@@ -20,7 +20,7 @@ Check out the great programs highlighted below.  Before you apply, review my [ti
 
 # ISC HPC Student Volunteers Program
 
-**<a href="https://www.isc-hpc.com/student-volunteers.html" target="blank">ISC Student Volunteers</a>** attend the ISC HPC conference in Frankfurt, Germany and help organize and run the conference. Students get full conference access, career development opportunities, and housing.
+**<a href="https://isc-hpc.com/program/student-volunteer-program/" target="blank">ISC Student Volunteers</a>** attend the ISC HPC conference in Frankfurt, Germany and help organize and run the conference. Students get full conference access, career development opportunities, and housing.
 
 # Sustainable Horizons Institute Programs
 
@@ -28,7 +28,7 @@ The **<a href="https://shinstitute.org" target="blank">Sustainable Horizons Inst
 
 # SIGHPC Student Travel Grants
 
-**<a href="https://www.sighpc.org/for-your-career/student-travel-grants" target="blank">SIGHPC</a>** provides countless opportunities for students and professionals in HPC through community support. The SIG provides travel support to attend SC and PASC as well as travel support specifically for female students. 
+**<a href="https://www.sighpc.org/opportunities/travel-grants" target="blank">SIGHPC</a>** provides countless opportunities for students and professionals in HPC through community support. The SIG provides travel support to attend SC and PASC as well as travel support specifically for female students. 
 
 
 <br/>
