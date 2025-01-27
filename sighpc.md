@@ -8,7 +8,7 @@ permalink: /sighpc/
 
 <br/>
 
-## SIGHPC Chair 2025-2028
+#### SIGHPC Chair 2025-2028
 
 <br>
 
