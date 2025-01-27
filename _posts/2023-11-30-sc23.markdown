@@ -18,7 +18,7 @@ This role was time-consuming and definitely a challenge to coordiante across the
 
 SC23 was my final conference as a member of the SC Steering committee. Learning how SC works including the policies and long-term vision for the conference was rewarding.  So much planning, discussion, and deep consideration goes into every decision made by the steering committee.  
 
-
+While I was kept busy with my SC responsibilities, I still made time to fit in my responsibilities as SIGHPC Chair. SC is home to our annual member meeting which is hosted during the lunchtime BoF slot on Tuesday.  As with last year, I tried to liven up the meeting with trivia, a rotating host of presenters, and prizes.  Additionally, we have an on-site executive committee meeting, which is a great opportunity to get our whole team together in-person after a year of virtual calls.  I was invited to participate in an addiitonal BoF on the role of professional socieities in the community which was and exciting opportunity to engage with leaders from the SIAM SIAG and IEEE-CS TCs engaged in HPC.  Finally, we continued to expand out engagement with SIGHPC awardees at SC with two community breakfasts. We invited members from the HPC Immersion Program, the SIGHPC Fellows, Travel Grant winners, the EWLTC winner, and Dissertation winner to join members of the SIGHPC EC and some mentors for breakfast across two mornings. This was a great opportunity to engage with the participants that we bring to SC and check in on their expereience at the confrerence!
 
 
 <div class="img_row">
