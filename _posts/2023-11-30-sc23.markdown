@@ -22,6 +22,6 @@ SC23 was my final conference as a member of the SC Steering committee. Learning 
 
 
 <div class="img_row">
-	<img class="col two" src="/img/SC22-5k-6.jpg">
-    <img class="col one" src="/img/SC22-groupphotos-19.jpg">
+	<img class="col two" src="/img/SC23_com_team-05559.jpg">
+    <img class="col one" src="/img/sc23-cluster.jpg">
 </div>
