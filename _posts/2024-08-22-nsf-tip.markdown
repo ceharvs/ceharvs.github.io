@@ -9,7 +9,7 @@ description: Sharing the NSF TIP Roadmap.
 Last year, I was fortunate to be part of an exciting project supporting the National Science Foundation (NSF) Technology, Innovation, and Partnerships (TIP) Roadmap development.  We focused on ten key technology focus areas across a variety of challenge areas and provided guidance and responses about the unique and overlapping challenges. Details can be found in the full [TIP Roadmap 2024](https://nsf-gov-resources.nsf.gov/files/TIPRoadmap_WEB.pdf).
 
 <div class="img_row">
-	<img class="col one" src="/img/Stip-roadmap-herobanner-1350x440.png">
+	<img class="col one" src="/img/tip-roadmap-herobanner-1350x440.png">
 </div>
 
 This image is from the [NSF website](https://new.nsf.gov/tip/updates/nsf-announces-investment-roadmap-technology).
